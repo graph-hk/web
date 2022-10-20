@@ -9,7 +9,7 @@ permalink: /talks/
 
 ## Upcoming event
 
-"XXXXXXXXX" 
+TBC
 
 Registration -> [here](https://forms.gle/A4xfzN92C1SQr7Ut9){:target="_blank"}
 
