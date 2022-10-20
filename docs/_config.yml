@@ -21,7 +21,7 @@
 title: GRAPH
 email: graph.hk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Global Research Association of Politics in Hong Kong is an international network of scholars studying Hong Kong politics.
+  GRAPH is an international network of scholars studying Hong Kong politics.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GRAPHhk
