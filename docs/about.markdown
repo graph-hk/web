@@ -7,7 +7,7 @@ permalink: /about/
 ![image](/images/picReservoir.jpg)
 ###### Image: [Jacky Chiu](https://www.pexels.com/@jacky-chiu-1418472/){:target="_blank"}
 
-Hong Kong politics used to be a tiny subfield at the intersection of political science and area studies. It has begun attracting greater scholarly attention since the early 2010s, as the city expericed a series of large-scale democracy movements and political changes. Perhaps this is good news to academic researchers working in this subfield. But then came the National Security Law, which makes research on Hong Kong politics all the more difficult for various reasons. 
+Hong Kong politics used to be a tiny subfield at the intersection of political science and area studies. It has begun attracting greater scholarly attention since the early 2010s, as the city experienced a series of large-scale democracy protests and political changes. Perhaps this is good news to academic researchers working in this subfield. But then came the National Security Law, which makes research on Hong Kong politics all the more difficult for various reasons. 
 
 This is the background of the **Global Research Association of Politics in Hong Kong** (GRAPH). GRAPH is intended to provide a platform dedicated to the studies of Hong Kong politics in order to achieve the following objectives:
 
