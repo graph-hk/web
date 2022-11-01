@@ -15,6 +15,8 @@ This is the background of the **Global Research Association of Politics in Hong 
 2. To learn innovative research methodologies and data collection strategies; and
 3. To facilitate research collaboration.
 
+GRAPH is an academic association. We receive no funding from any government agencies or political organizations. 
+
 
 
 
