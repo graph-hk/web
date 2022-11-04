@@ -11,7 +11,7 @@ permalink: /talks/
 
 TBC
 
-Registration -> [here](https://forms.gle/A4xfzN92C1SQr7Ut9){:target="_blank"}
+Registration link will be made available soon.
 
 
 
