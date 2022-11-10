@@ -9,7 +9,9 @@ permalink: /talks/
 
 ## Upcoming event
 
-TBC
+Online Seminar Series
+
+Mark your calendar: 1/20/2023
 
 Registration link will be made available soon.
 
