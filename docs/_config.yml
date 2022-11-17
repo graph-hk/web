@@ -22,9 +22,14 @@ title: GRAPH
 email: graph.hk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   GRAPH is an international network of scholars studying Hong Kong politics.
+
+# to test locally, uncomment the next two lines and comment out the two lines after next two
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://graph-hk.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+#url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://graph-hk.github.io/' # the base hostname& protocol for your site, e.g. http://example.com
 baseurl: 'web/'
+
+
 #logo: /images/logo.png
 twitter_username: GRAPHhk
 #github_username:  jekyll
