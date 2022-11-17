@@ -14,7 +14,7 @@ permalink: /talk/
 
 **Time**: 9 am Central Time; 10 am Eastern Time; 11 pm Hong Kong Time
 
-**[Registration](https://forms.gle/hNEjkrEEQphWHaZf8){:target="_blank"} Required**: 
+**[Registration](https://forms.gle/hNEjkrEEQphWHaZf8){:target="_blank"} Required**
 
 
 Scholars have noticed that contemporary digitally-mediated activism is hybridized in terms of organizational structures, action repertoires, and underlying movement logics. However, to what extent such hybridization takes place in contentious politics and whether or not the process benefits the goal of movement mobilization remain uncertain. This study scrutinizes the mechanism of online activism in an analysis of 4 million Telegram channel messages collected during the 2019 Hong Kong Anti-Extradition Law Amendment Bill movement. It highlights the logic of cross-boundary action – a mixture of action actors, organizational structures, repertoires, network positions for empowerment -- through which self-organized activists played overwhelmingly vital roles in the movement but were critically supported by small numbers of organizational and news media actors in some essential functioning. The study also establishes a relationship between the online audience’s attention to the call-for-action messages and the subsequent protest turnout, indicating a private-to-public shift via networked media, in which most of the diversely connected self-organized activists captured most of the attention. It finally summarizes the multidimensional nature of digital activism in defining the way social media affordance shapes the landscape of contemporary political participation. 
