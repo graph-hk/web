@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Upcoming Talk
+title: Upcoming Talks
 permalink: /talk/
 ---
 
 <!-- ![image](/images/picHaze.jpg)
 ###### Image: [Hakan Nural](https://www.pexels.com/@hakannural/){:target="_blank"} 
 -->
+
 ![image](/images/picProtestArt.jpg)
+
+# **What's Next**
+
 ## The Logic of Cross-Boundary Actions: Digital Mobilization in the 2019 Hong Kong Social Movement
 
 **Date**: January 20, 2023
@@ -27,6 +31,27 @@ Scholars have noticed that contemporary digitally-mediated activism is hybridize
 
 #### **Commentator**
 <img align="left" src="{{site.baseurl | prepend: site.url}}images/picJeanHong.jpg" alt="commentator" width="150"/> Professor Ji Yeon Hong is an Associate Professor of Political Science and Korea Foundation Professor of Korean Studies at the University of Michigan. Her research focuses on authoritarian politics and legacies, with particular attention to East Asia including Korea, China, Taiwan, and Hong Kong. She has various ongoing research projects related to the legacy of the authoritarian past, the long-term impact of political violence, and the determinants of government policies under authoritarianism. She obtained the Ph.D. degree in the Department of Politics at New York University.  Her research has been published in American Journal of Political Science, British Journal of Political Science, Journal of Economic Behavior and Organization, and Journal of Politics, among others.
+
+
+
+---
+
+
+# **Future Events**
+
+**Feb 17, 2023**: Resistance from Afar: Evolution of Contentious Repertoires in Hong Kong Diaspora's Transnational Mobilization during the 2019 Anti-ELAB Movement
+
+*Speaker*: Maggie Shum, Penn State Erie, the Behrend College
+
+*Discussant*: Samson Yuen, Hong Kong Baptist University
+
+
+**Mar 17, 2023**: Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
+
+*Speaker*: Chit Wai John Mok, University of California, Irvine
+
+*Commentator*: Ching Kwan Lee, University of California, Los Angeles
+
 
 
 
