@@ -33,11 +33,16 @@ Scholars have noticed that contemporary digitally-mediated activism is hybridize
 <img align="left" src="{{site.baseurl | prepend: site.url}}images/picJeanHong.jpg" alt="commentator" width="150"/> Professor [Ji Yeon Hong](https://lsa.umich.edu/polisci/people/faculty/ji-yeon--jean--hong.html){:target="_blank"} is an Associate Professor of Political Science and Korea Foundation Professor of Korean Studies at the University of Michigan. Her research focuses on authoritarian politics and legacies, with particular attention to East Asia including Korea, China, Taiwan, and Hong Kong. She has various ongoing research projects related to the legacy of the authoritarian past, the long-term impact of political violence, and the determinants of government policies under authoritarianism. She obtained the Ph.D. degree in the Department of Politics at New York University.  Her research has been published in American Journal of Political Science, British Journal of Political Science, Journal of Economic Behavior and Organization, and Journal of Politics, among others.
 
 
+<br />
+<br />
 
 ---
 
 
-# **Future Events**
+<br />
+<br />
+
+# **More to Come**
 
 **Feb 17, 2023**: Resistance from Afar: Evolution of Contentious Repertoires in Hong Kong Diaspora's Transnational Mobilization during the 2019 Anti-ELAB Movement
 
