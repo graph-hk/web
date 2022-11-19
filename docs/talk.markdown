@@ -25,12 +25,12 @@ Scholars have noticed that contemporary digitally-mediated activism is hybridize
 
 
 #### **Speaker**
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picKingWaFu.jpg" alt="speaker" width="150"/> Dr. King-wa FU is a Professor at the Journalism and Media Studies Centre (JMSC), The University of Hong Kong. His research interests include China's information governance, media and political participation, computational social sciences, health and the media, and younger generation's media use. He was a visiting Associate Professor at the MIT Media Lab and Fulbright-RGC Hong Kong Senior Research Scholar in 2016-2017 and a China-US Scholar 2021-2022 at the Boston University. He is the Principal Investigator of Weiboscope, WeChatscope, and ANTIELAB Research Data Archive. He was a journalist at the Hong Kong Economic Journal before turning to academia. His online [CV](http://sites.google.com/site/fukingwa/cv){:target="_blank"}.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picKingWaFu.jpg" alt="speaker" width="150"/> Professor [King-wa Fu](https://jmsc.hku.hk/people/king-wa-fu/){:target="_blank"} is a Professor at the Journalism and Media Studies Centre (JMSC), The University of Hong Kong. His research interests include China's information governance, media and political participation, computational social sciences, health and the media, and younger generation's media use. He was a visiting Associate Professor at the MIT Media Lab and Fulbright-RGC Hong Kong Senior Research Scholar in 2016-2017 and a China-US Scholar 2021-2022 at the Boston University. He is the Principal Investigator of Weiboscope, WeChatscope, and ANTIELAB Research Data Archive. He was a journalist at the Hong Kong Economic Journal before turning to academia. His online [CV](http://sites.google.com/site/fukingwa/cv){:target="_blank"}.
 
 
 
 #### **Commentator**
-<img align="left" src="{{site.baseurl | prepend: site.url}}images/picJeanHong.jpg" alt="commentator" width="150"/> Professor Ji Yeon Hong is an Associate Professor of Political Science and Korea Foundation Professor of Korean Studies at the University of Michigan. Her research focuses on authoritarian politics and legacies, with particular attention to East Asia including Korea, China, Taiwan, and Hong Kong. She has various ongoing research projects related to the legacy of the authoritarian past, the long-term impact of political violence, and the determinants of government policies under authoritarianism. She obtained the Ph.D. degree in the Department of Politics at New York University.  Her research has been published in American Journal of Political Science, British Journal of Political Science, Journal of Economic Behavior and Organization, and Journal of Politics, among others.
+<img align="left" src="{{site.baseurl | prepend: site.url}}images/picJeanHong.jpg" alt="commentator" width="150"/> Professor [Ji Yeon Hong](https://lsa.umich.edu/polisci/people/faculty/ji-yeon--jean--hong.html){:target="_blank"} is an Associate Professor of Political Science and Korea Foundation Professor of Korean Studies at the University of Michigan. Her research focuses on authoritarian politics and legacies, with particular attention to East Asia including Korea, China, Taiwan, and Hong Kong. She has various ongoing research projects related to the legacy of the authoritarian past, the long-term impact of political violence, and the determinants of government policies under authoritarianism. She obtained the Ph.D. degree in the Department of Politics at New York University.  Her research has been published in American Journal of Political Science, British Journal of Political Science, Journal of Economic Behavior and Organization, and Journal of Politics, among others.
 
 
 
@@ -41,16 +41,16 @@ Scholars have noticed that contemporary digitally-mediated activism is hybridize
 
 **Feb 17, 2023**: Resistance from Afar: Evolution of Contentious Repertoires in Hong Kong Diaspora's Transnational Mobilization during the 2019 Anti-ELAB Movement
 
-*Speaker*: Maggie Shum, Penn State Erie, the Behrend College
+*Speaker* : Maggie Shum, Penn State Erie, the Behrend College
 
-*Discussant*: Samson Yuen, Hong Kong Baptist University
+*Discussant* : Samson Yuen, Hong Kong Baptist University
 
 
 **Mar 17, 2023**: Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
 
-*Speaker*: Chit Wai John Mok, University of California, Irvine
+*Speaker* : Chit Wai John Mok, University of California, Irvine
 
-*Commentator*: Ching Kwan Lee, University of California, Los Angeles
+*Commentator* : Ching Kwan Lee, University of California, Los Angeles
 
 
 
