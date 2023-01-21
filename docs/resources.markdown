@@ -4,10 +4,10 @@ title: Resources
 permalink: /resources/
 ---
 
-![image](/images/picCulturalCenter.jpg)
+![image](/images/picPRE.jpg)
 
 
-###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+###### Image: [Aleksandar Pasaric](https://www.pexels.com/@apasaric/){:target="_blank"}
 
 We highlight publicly available data for conducting research on Hong Kong politics. We will continue to add new items to this list.
 
