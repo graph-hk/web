@@ -16,11 +16,9 @@ permalink: /talk/
 
 **Date**: February 17, 2023
 
-**Time**: TBC
+**Time**: 11 pm HK Time; 9 am Central Time; 10 am Eastern Time
 
-Registration Required: Registration link available soon
-
-<!-- **[Registration](https://forms.gle/hNEjkrEEQphWHaZf8){:target="_blank"} Required** 0-->
+**[Registration](https://forms.gle/k6uXmaSYrQdruLfh9){:target="_blank"} Required** 
 
 
 The roles transnational advocacy networks play in the fight for human rights and democratization have been well documented and studied. However, missing from the literature on transnational mobilization is diaspora grassroots group, a crucial actor occupying a key spot in supporting anti-regime movement in their homeland. In this paper, I examine how their transnational ties with the homeland shape or constrain their repertoire in the host country, and how repertoires are translated, adapted, and innovated when movements take on a transnational dimension? Using the case of the 2019 Anti-ELAB movement and Hong Kong diaspora' mobilization in the US, I argue that diasporas mobilization tends to reproduce protest repertoires from movement back home in the early stage since they mostly amplify the grievances of the homeland-based movement. Constrained and shaped by the political opportunity structure at the macro- and meso-level, diaspora activists face problems that existing repertoires are inadequate to solve. Through trial and error in their interactions with institutions and actors at the global and national levels, diasporas engage in repertoire change in order to find a common language and frame that allow them to thrive in alien cultural and political terrain.
