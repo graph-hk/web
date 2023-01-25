@@ -28,7 +28,7 @@ The roles transnational advocacy networks play in the fight for human rights and
 
 
 
-#### **Commentator**
+#### **Discussant**
 <img align="left" src="{{site.baseurl | prepend: site.url}}images/picSamsonYuen.jpg" alt="commentator" width="150"/> Dr [Samson Yuen](https://www.samson-yuen.com/){:target="_blank"} is an Associate Professor in the Department of Government and International Studies at Hong Kong Baptist University. He is a political scientist who researches contentious politics, civil conflicts, public opinion, health and food politics, focusing mainly on East Asia. He holds a DPhil in Politics from Oxford University.
 
 
