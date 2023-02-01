@@ -55,7 +55,7 @@ The roles transnational advocacy networks play in the fight for human rights and
 
 *Speaker* : Duoduo Xu, University of Hong Kong
 
-*Commentator* : Ye Wang University of North Carolina at Chapel Hill
+*Commentator* : Ye Wang, University of North Carolina at Chapel Hill
 
 
 
