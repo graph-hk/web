@@ -51,6 +51,11 @@ The roles transnational advocacy networks play in the fight for human rights and
 *Commentator* : Ching Kwan Lee, University of California, Los Angeles
 
 
+**Apr 28, 2023**: In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
+
+*Speaker* : Duoduo Xu, University of Hong Kong
+
+*Commentator* : Ye Wang University of North Carolina at Chapel Hill
 
 
 
