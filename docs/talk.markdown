@@ -18,7 +18,7 @@ permalink: /talk/
 
 **Time**: 9 am HK Time (3/18); 8 pm Central Time (3/17); 9 pm Eastern Time (3/17); 6 pm Pacific Time (3/17)
 
-**[Registration](https://forms.gle/k6uXmaSYrQdruLfh9){:target="_blank"} Required** 
+**[Registration](https://forms.gle/cUHt6BCgw4rzWTbV8){:target="_blank"} Required** 
 
 
 Emotions are essential for mobilization. In the face of violent repression, individual participants evaluate their relational positions in the interaction order within relation to other participants and compare their contributions. This evaluation leads to the arousal of emotions that help sustain mobilization. Using Hong Kong’s anti-extradition movement as a case and based on thirty-two in-depth interviews of participants, this article proposes two emotional mechanisms of sustained mobilization. Through the guilt mechanism, interviewees believed that some others were making more contributions, and felt sorry for failing to do more. Interviewees mobilized by the mechanism of moral pleasure and solidarity, on the other hand, argued that participants contributed equally. They took part in the movement out of the desire to fulfill their moral obligations, and they felt good to be part of the movement. The key factor distinguishing the mechanisms was how participants evaluated their positions and contributions compared to other participants
