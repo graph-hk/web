@@ -12,26 +12,24 @@ permalink: /talk/
 
 # **What's Next**
 
-## Resistance from Afar: Evolution of Contentious Repertoires in Hong Kong Diaspora’s Transnational Mobilization during the 2019 Anti-ELAB Movement
+## Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
 
-**Date**: February 17, 2023
+**Date**: March 17/18, 2023
 
-**Time**: 11 pm HK Time; 9 am Central Time; 10 am Eastern Time
+**Time**: 9 am HK Time (3/18); 8 pm Central Time (3/17); 9 pm Eastern Time (3/17); 6 pm Pacific Time (3/17)
 
 **[Registration](https://forms.gle/k6uXmaSYrQdruLfh9){:target="_blank"} Required** 
 
 
-The roles transnational advocacy networks play in the fight for human rights and democratization have been well documented and studied. However, missing from the literature on transnational mobilization is diaspora grassroots group, a crucial actor occupying a key spot in supporting anti-regime movement in their homeland. In this paper, I examine how their transnational ties with the homeland shape or constrain their repertoire in the host country, and how repertoires are translated, adapted, and innovated when movements take on a transnational dimension? Using the case of the 2019 Anti-ELAB movement and Hong Kong diaspora' mobilization in the US, I argue that diasporas mobilization tends to reproduce protest repertoires from movement back home in the early stage since they mostly amplify the grievances of the homeland-based movement. Constrained and shaped by the political opportunity structure at the macro- and meso-level, diaspora activists face problems that existing repertoires are inadequate to solve. Through trial and error in their interactions with institutions and actors at the global and national levels, diasporas engage in repertoire change in order to find a common language and frame that allow them to thrive in alien cultural and political terrain.
+Emotions are essential for mobilization. In the face of violent repression, individual participants evaluate their relational positions in the interaction order within relation to other participants and compare their contributions. This evaluation leads to the arousal of emotions that help sustain mobilization. Using Hong Kong’s anti-extradition movement as a case and based on thirty-two in-depth interviews of participants, this article proposes two emotional mechanisms of sustained mobilization. Through the guilt mechanism, interviewees believed that some others were making more contributions, and felt sorry for failing to do more. Interviewees mobilized by the mechanism of moral pleasure and solidarity, on the other hand, argued that participants contributed equally. They took part in the movement out of the desire to fulfill their moral obligations, and they felt good to be part of the movement. The key factor distinguishing the mechanisms was how participants evaluated their positions and contributions compared to other participants
 
 #### **Speaker**
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picMaggieShum.jpg" alt="speaker" width="150"/> Dr [Maggie Shum](https://www.maggieshum.com/){:target="_blank"} is an assistant professor of political science at Penn State Erie, the Behrend College. She received her PhD in political science at the University of Notre Dame, specializing in comparative politics with two regional focuses in Latin America and East Asia (Hong Kong and Taiwan). Her research interests include transnational contentious politics, social movement, diasporas politics, party organization, participatory institutions, and public opinion. Dr. Shum is currently working on research projects focusing on how Hong Kong diasporas (re)construct their collective identity abroad, and how they navigate between the concerns of the homeland and their well-being in the host country such as the US. Her academic works have been published or accepted in Journal of Asian and African Studies, and Japanese Journal of Political Science, and her policy writings on Hong Kong can be found in the *Monkey Cage* in the Washington Post, *Mischief of Factions*, and the *Diplomat*. In addition, she pens the *Freedom of the World* report on Hong Kong, and serves as the country expert on Hong Kong in the *Varieties of Democracy* (V-Dem).
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picJohnMok.jpg" alt="speaker" width="150"/> [Chit Wai John Mok](https://www.socsci.uci.edu/~cwmok/cv.pdf){:target="_blank"}  is a PhD candidate in sociology at the University of California, Irvine. His research interests include culture, religion, ethics, emotions, and political sociology
 
 
 
 #### **Discussant**
-<img align="left" src="{{site.baseurl | prepend: site.url}}images/picSamsonYuen.jpg" alt="commentator" width="150"/> Dr [Samson Yuen](https://www.samson-yuen.com/){:target="_blank"} is an Associate Professor in the Department of Government and International Studies at Hong Kong Baptist University. He is a political scientist who researches contentious politics, civil conflicts, public opinion, health and food politics, focusing mainly on East Asia. He holds a DPhil in Politics from Oxford University.
-
-
+<img align="left" src="{{site.baseurl | prepend: site.url}}images/picCKLee.jpg" alt="commentator" width="150"/> Prof [Ching Kwan Lee](https://soc.ucla.edu/person/ching-kwan-lee/){:target="_blank"}  is a professor of sociology at UCLA. She is the author of three award-winning monographs on contemporary China’s turn to capitalism: Gender and the South China Miracle: Two Worlds of Factory Women (1998), Against the Law: Labor Protests in China’s Rustbelt and Sunbelt  (2007), and The Specter of Global China: Politics, Labor and Foreign Investment in Africa (2017). Her latest publication is Hong Kong: Global China’s Restive Frontier (2022), an open access [book](https://www.cambridge.org/core/elements/hong-kong/52262049437D84C544F8C1B04BCE7C94#metrics){:target="_blank"} from Cambridge University Press. She is working on an ethnographic and historical monograph about Hong Kong’s decolonization struggle, with a particular focus on the 2019 uprising.
 <br />
 <br />
 
@@ -42,14 +40,6 @@ The roles transnational advocacy networks play in the fight for human rights and
 <br />
 
 # **More to Come**
-
-
-**Mar 17, 2023**: Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
-
-*Speaker* : Chit Wai John Mok, University of California, Irvine
-
-*Commentator* : Ching Kwan Lee, University of California, Los Angeles
-
 
 **Apr 28, 2023**: In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
 
