@@ -24,7 +24,13 @@ permalink: /talk/
 Emotions are essential for mobilization. In the face of violent repression, individual participants evaluate their relational positions in the interaction order within relation to other participants and compare their contributions. This evaluation leads to the arousal of emotions that help sustain mobilization. Using Hong Kong’s anti-extradition movement as a case and based on thirty-two in-depth interviews of participants, this article proposes two emotional mechanisms of sustained mobilization. Through the guilt mechanism, interviewees believed that some others were making more contributions, and felt sorry for failing to do more. Interviewees mobilized by the mechanism of moral pleasure and solidarity, on the other hand, argued that participants contributed equally. They took part in the movement out of the desire to fulfill their moral obligations, and they felt good to be part of the movement. The key factor distinguishing the mechanisms was how participants evaluated their positions and contributions compared to other participants
 
 #### **Speaker**
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picJohnMok.jpg" alt="speaker" width="150"/> [Chit Wai John Mok](https://www.socsci.uci.edu/~cwmok/cv.pdf){:target="_blank"}  is a PhD candidate in sociology at the University of California, Irvine. His research interests include culture, religion, ethics, emotions, and political sociology
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picJohnMok.jpg" alt="speaker" width="150"/> [Chit Wai John Mok](https://www.socsci.uci.edu/~cwmok/cv.pdf){:target="_blank"}  is a PhD candidate in sociology at the University of California, Irvine. His research interests include culture, religion, ethics, emotions, and political sociology.
+
+<br />
+<br />
+<br />
+<br />
+
 
 
 
