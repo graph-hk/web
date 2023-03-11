@@ -53,6 +53,14 @@ Emotions are essential for mobilization. In the face of violent repression, indi
 
 *Commentator* : Ye Wang, University of North Carolina at Chapel Hill
 
+**May TBC, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
+
+*Speaker* : Hans Tung, National Taiwan University
+
+*Discussant* : Eddy Yeung, Emory University
+
+
+
 
 
 
