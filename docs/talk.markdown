@@ -12,30 +12,29 @@ permalink: /talk/
 
 # **What's Next**
 
-## Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
+## In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
 
-**Date**: March 17/18, 2023
+**Date**: Apr 28, 2023
 
-**Time**: 9 am HK Time (3/18); 8 pm Central Time (3/17); 9 pm Eastern Time (3/17); 6 pm Pacific Time (3/17)
+**Time**: 10 pm HK Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**[Registration](https://forms.gle/cUHt6BCgw4rzWTbV8){:target="_blank"} Required** 
+**[Registration](https://forms.gle/RUE7DbKm8f6Gan7w8){:target="_blank"} Required** 
 
 
 Emotions are essential for mobilization. In the face of violent repression, individual participants evaluate their relational positions in the interaction order within relation to other participants and compare their contributions. This evaluation leads to the arousal of emotions that help sustain mobilization. Using Hong Kong’s anti-extradition movement as a case and based on thirty-two in-depth interviews of participants, this article proposes two emotional mechanisms of sustained mobilization. Through the guilt mechanism, interviewees believed that some others were making more contributions, and felt sorry for failing to do more. Interviewees mobilized by the mechanism of moral pleasure and solidarity, on the other hand, argued that participants contributed equally. They took part in the movement out of the desire to fulfill their moral obligations, and they felt good to be part of the movement. The key factor distinguishing the mechanisms was how participants evaluated their positions and contributions compared to other participants
 
 #### **Speaker**
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picJohnMok.jpg" alt="speaker" width="150"/> [Chit Wai John Mok](https://www.socsci.uci.edu/~cwmok/cv.pdf){:target="_blank"}  is a PhD candidate in sociology at the University of California, Irvine. His research interests include culture, religion, ethics, emotions, and political sociology.
-
-<br />
-<br />
-<br />
-<br />
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picXu.jpg" alt="speaker" width="150"/> [Duoduo Xu](https://sociology.hku.hk/people/xu-duoduo/){:target="_blank"} is an Assistant Professor of Sociology at the University of Hong Kong (2019-present). She also holds joint appointments at the Department of Geography and the Faculty of Arts. Before joining HKU, she was a Research Assistant Professor of Social Science and a Junior Fellow of Institute for Advanced Study at the Hong Kong University of Science and Technology (2017-2019). In 2017, Xu received her PhD in Social Science from HKUST, where she was also trained at the Center for Applied Social and Economic Research (CASER). 
+ 
+Xu's research interests center on social stratification and inequality, and lie at the intersection of urban sociology, sociology of education, and sociology of work. In particular, she is interested in understanding: 1) how social-spatial factors (e.g. migration, segregation, location) shape urban residents’ attitudes, behaviors, and life chances; 2) the impacts of various family, school and neighborhood factors on children’s educational and developmental outcomes; 3) young people’s experiences of school-to-work transition, precarious employment and labour market mismatch. Xu’s studies are mainly concerned with child development and youth employment issues in Chinese cities (e.g. Hong Kong, Shanghai, Beijing), and she draws on various longitudinal survey datasets and a range of quantitative methods for causal inference. Her work has appeared in *British Journal of Sociology*, *Work, Employment and Society*, *Chinese Sociological Review*, *Journal of Contemporary China*, *Journal of Ethnic Migration Studies*, among others.
 
 
+<br />
+<br />
 
 
 #### **Discussant**
-<img align="left" src="{{site.baseurl | prepend: site.url}}images/picCKLee.jpg" alt="commentator" width="150"/> Prof [Ching Kwan Lee](https://soc.ucla.edu/person/ching-kwan-lee/){:target="_blank"}  is a professor of sociology at UCLA. She is the author of three award-winning monographs on contemporary China’s turn to capitalism: Gender and the South China Miracle: Two Worlds of Factory Women (1998), Against the Law: Labor Protests in China’s Rustbelt and Sunbelt  (2007), and The Specter of Global China: Politics, Labor and Foreign Investment in Africa (2017). Her latest publication is Hong Kong: Global China’s Restive Frontier (2022), an open access [book](https://www.cambridge.org/core/elements/hong-kong/52262049437D84C544F8C1B04BCE7C94#metrics){:target="_blank"} from Cambridge University Press. She is working on an ethnographic and historical monograph about Hong Kong’s decolonization struggle, with a particular focus on the 2019 uprising.
+<img align="left" src="{{site.baseurl | prepend: site.url}}images/picWang.jpg" alt="commentator" width="150"/> [Ye Wang](https://politicalscience.unc.edu/staff/ye-wang/){:target="_blank"} is an Assistant Professor at the Department of Political Science, the University of North Carolina at Chapel Hill. His research focuses on political methodology, especially the identification of spillover effects from policies or events in time, space, or social networks, and how to improve the robustness of research designs and hypothesis testing. He received a PhD from the Wilf Family Department of Politics at New York University. His work has been published in journals such as the *American Journal of Political Science* and *Electoral Studies*. 
 <br />
 <br />
 
@@ -47,13 +46,7 @@ Emotions are essential for mobilization. In the face of violent repression, indi
 
 # **More to Come**
 
-**Apr 28, 2023**: In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
-
-*Speaker* : Duoduo Xu, University of Hong Kong
-
-*Commentator* : Ye Wang, University of North Carolina at Chapel Hill
-
-**May TBC, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
+**May 12, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
 
 *Speaker* : Hans Tung, National Taiwan University
 
