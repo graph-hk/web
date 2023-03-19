@@ -4,9 +4,6 @@ title: Upcoming Talks
 permalink: /talk/
 ---
 
-<!-- ![image](/images/picHaze.jpg)
-###### Image: [Hakan Nural](https://www.pexels.com/@hakannural/){:target="_blank"} 
--->
 
 ![image](/images/picProtestArt.jpg)
 
@@ -17,6 +14,10 @@ permalink: /talk/
 **Date**: Apr 28, 2023
 
 **Time**: 10 pm HK Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
+
+**Speaker** Duoduo Xu, University of Hong Kong
+
+**Discussant** Ye Wang, University of North Carolina at Chapel Hill
 
 **[Registration](https://forms.gle/RUE7DbKm8f6Gan7w8){:target="_blank"} Required** 
 
