@@ -9,7 +9,7 @@ permalink: /past/
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
 
-** Mar 17/18, 2023**: Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
+**Mar 17/18, 2023**: Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
 
 *Speaker* : [Chit Wai John Mok](https://www.socsci.uci.edu/~cwmok/cv.pdf){:target="_blank"}, UC Irvine 
 
