@@ -4,7 +4,6 @@ title: Upcoming Talks
 permalink: /talk/
 ---
 
-
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
@@ -15,9 +14,9 @@ permalink: /talk/
 
 **Time**: 10 pm HK Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**Speaker** Duoduo Xu, University of Hong Kong
+**Speaker**: Duoduo Xu, University of Hong Kong
 
-**Discussant** Ye Wang, University of North Carolina at Chapel Hill
+**Discussant**: Ye Wang, University of North Carolina at Chapel Hill
 
 **[Registration](https://forms.gle/RUE7DbKm8f6Gan7w8){:target="_blank"} Required** 
 
