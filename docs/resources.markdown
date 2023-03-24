@@ -16,3 +16,5 @@ We highlight publicly available data for conducting research on Hong Kong politi
 [ANTIELAB Research Data Archive](https://antielabdata.jmsc.hku.hk/){:target="_blank"}
 
 [Hong Kong Election Study](https://hongkongelectionstudy.github.io/home){:target="_blank"}
+
+[Richard Charles Lee Canada-Hong Kong Library](https://hongkong.library.utoronto.ca/){:target="_blank"}
