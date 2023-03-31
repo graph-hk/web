@@ -12,31 +12,32 @@
   }
 </style>
 
-<table class="calendar">
+{% assign days = "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday" | split: "," %}
+
+{% assign month_start = event_data.start_date | date: "%B %Y" %}
+<table>
   <thead>
     <tr>
-      <th>Sun</th>
-      <th>Mon</th>
-      <th>Tue</th>
-      <th>Wed</th>
-      <th>Thu</th>
-      <th>Fri</th>
-      <th>Sat</th>
+      {% for day in days %}
+        <th>{{ day }}</th>
+      {% endfor %}
     </tr>
   </thead>
   <tbody>
-    {% assign month_days = site.time | date: "%-d" %}
-    {% assign month_start = site.time | date: "%-w" %}
+    <tr><td colspan="7">{{ month_start }}</td></tr>
+    {% assign days_in_month = event_data.start_date | date: "%-d" | plus: 0 %}
+    {% assign offset = event_data.start_date | date: "%u" | minus: 1 %}
+    {% assign remaining_days = 7 | minus: offset %}
     {% assign day_count = 1 %}
     {% for i in (1..6) %}
       <tr>
-        {% for j in (0..6) %}
-          {% if i == 1 and j < month_start %}
+        {% for j in (1..7) %}
+          {% if i == 1 and j <= offset %}
             <td></td>
-          {% elsif day_count <= month_days %}
-            {% capture current_date %}{{ site.time | date: "%Y-%m-" }}{% if day_count < 10 %}0{% endif %}{{ day_count }}{% endcapture %}
-            <td data-date="{{ current_date }}"></td>
-            {% assign day_count = day_count | plus:1 %}
+          {% elsif day_count <= days_in_month %}
+            {% assign day = day_count %}
+            {% assign day_count = day_count | plus: 1 %}
+            <td>{{ day }}</td>
           {% else %}
             <td></td>
           {% endif %}
@@ -46,28 +47,3 @@
   </tbody>
 </table>
 
-<script>
-  // Load event data from JSON file
-  fetch('/events.json')
-    .then(response => response.json())
-    .then(data => {
-      // Loop through events and add them to the calendar
-      data.forEach(event => {
-        const date = event.date;
-        const cell = document.querySelector(`td[data-date="${date}"]`);
-        if (cell) {
-          cell.dataset.event = JSON.stringify(event);
-        }
-      });
-    });
-
-  // Show event details in a popup when cell is clicked
-  const cells = document.querySelectorAll('td[data-event]');
-  cells.forEach(cell => {
-    cell.addEventListener('click', () => {
-      const event = JSON.parse(cell.dataset.event);
-      const message = `${event.title}\n${event.date}\n${event.time}\n${event.location}`;
-      alert(message);
-    });
-  });
-</script>

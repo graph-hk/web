@@ -4,4 +4,5 @@ title: Events
 permalink: /events/
 ---
 
-{% include calendar.html %}
+{% assign event_data = site.data.events %}
+{% include calendar.html with event_data %}
