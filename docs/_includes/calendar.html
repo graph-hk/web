@@ -1,0 +1,76 @@
+<style>
+  .calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 10px;
+  }
+
+  .calendar table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+  }
+
+  .calendar th,
+  .calendar td {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .calendar th {
+    background-color: #333;
+    color: #fff;
+  }
+</style>
+
+<div class="calendar">
+  <h2>Upcoming Events</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Sun</th>
+        <th>Mon</th>
+        <th>Tue</th>
+        <th>Wed</th>
+        <th>Thu</th>
+        <th>Fri</th>
+        <th>Sat</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign events = site.data.events | sort: 'date' %}
+      {% assign current_month = site.time | date: '%-m' %}
+      {% assign current_year = site.time | date: '%Y' %}
+      {% assign start_date = '01-' | append: current_month | append: '-' | append: current_year | date: '%a' %}
+      {% assign days_in_month = site.time | date: '%-d' | plus: 0 %}
+      {% assign blank_days = start_date | date: '%u' | minus: 1 %}
+      {% assign total_days = days_in_month | plus: blank_days %}
+      {% assign rows = total_days | divided_by: 7 %}
+      {% for i in (1..rows) %}
+        <tr>
+          {% for j in (1..7) %}
+            {% assign day_num = j | plus: (i-1)*7 | minus: blank_days %}
+            {% if day_num > 0 and day_num <= days_in_month %}
+              {% assign event_date = current_year | append: '-' | append: current_month | append: '-' | append: day_num %}
+              {% assign event = events | where: 'date', event_date | first %}
+              <td>
+                <div class="day">
+                  <div class="date">{{ day_num }}</div>
+                  {% if event %}
+                    <div class="event">
+                      <div class="title">{{ event.title }}</div>
+                      <div class="description">{{ event.description }}</div>
+                    </div>
+                  {% endif %}
+                </div>
+              </td>
+            {% else %}
+              <td></td>
+            {% endif %}
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
