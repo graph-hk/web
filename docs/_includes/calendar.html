@@ -1,0 +1,73 @@
+<style>
+  .calendar {
+    border-collapse: collapse;
+  }
+  .calendar td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  .calendar td[data-event] {
+    cursor: pointer;
+    background-color: #ffffcc;
+  }
+</style>
+
+<table class="calendar">
+  <thead>
+    <tr>
+      <th>Sun</th>
+      <th>Mon</th>
+      <th>Tue</th>
+      <th>Wed</th>
+      <th>Thu</th>
+      <th>Fri</th>
+      <th>Sat</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign month_days = site.time | date: "%-d" %}
+    {% assign month_start = site.time | date: "%-w" %}
+    {% assign day_count = 1 %}
+    {% for i in (1..6) %}
+      <tr>
+        {% for j in (0..6) %}
+          {% if i == 1 and j < month_start %}
+            <td></td>
+          {% elsif day_count <= month_days %}
+            {% capture current_date %}{{ site.time | date: "%Y-%m-" }}{% if day_count < 10 %}0{% endif %}{{ day_count }}{% endcapture %}
+            <td data-date="{{ current_date }}"></td>
+            {% assign day_count = day_count | plus:1 %}
+          {% else %}
+            <td></td>
+          {% endif %}
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script>
+  // Load event data from JSON file
+  fetch('/events.json')
+    .then(response => response.json())
+    .then(data => {
+      // Loop through events and add them to the calendar
+      data.forEach(event => {
+        const date = event.date;
+        const cell = document.querySelector(`td[data-date="${date}"]`);
+        if (cell) {
+          cell.dataset.event = JSON.stringify(event);
+        }
+      });
+    });
+
+  // Show event details in a popup when cell is clicked
+  const cells = document.querySelectorAll('td[data-event]');
+  cells.forEach(cell => {
+    cell.addEventListener('click', () => {
+      const event = JSON.parse(cell.dataset.event);
+      const message = `${event.title}\n${event.date}\n${event.time}\n${event.location}`;
+      alert(message);
+    });
+  });
+</script>

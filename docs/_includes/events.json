@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Event 1",
+    "date": "2023-04-03",
+    "time": "2:00 PM - 4:00 PM",
+    "location": "123 Main St"
+  },
+  {
+    "title": "Event 2",
+    "date": "2023-04-05",
+    "time": "5:00 PM - 7:00 PM",
+    "location": "456 Oak Ave"
+  },
+  // Add more events here
+]
