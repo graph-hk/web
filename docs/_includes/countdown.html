@@ -1,4 +1,50 @@
-<div id="countdown-timer"></div>
+<style>
+.countdown-timer {
+  display: flex;
+  justify-content: center;
+}
+
+.countdown-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.countdown-num {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.countdown-text {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+</style>
+
+<div id="countdown-timer" class="countdown-timer">
+  <div class="countdown-box">
+    <span class="countdown-num" id="days"></span>
+    <span class="countdown-text">Days</span>
+  </div>
+  <div class="countdown-box">
+    <span class="countdown-num" id="hours"></span>
+    <span class="countdown-text">Hours</span>
+  </div>
+  <div class="countdown-box">
+    <span class="countdown-num" id="minutes"></span>
+    <span class="countdown-text">Minutes</span>
+  </div>
+  <div class="countdown-box">
+    <span class="countdown-num" id="seconds"></span>
+    <span class="countdown-text">Seconds</span>
+  </div>
+</div>
 
 <script>
   // Set the date we're counting down to
@@ -19,9 +65,11 @@
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-    // Display the countdown in the element with id="countdown-timer"
-    document.getElementById("countdown-timer").innerHTML = days + "d " + hours + "h "
-    + minutes + "m " + seconds + "s ";
+    // Display the countdown in the elements
+    document.getElementById("countdown-days").innerHTML = days;
+    document.getElementById("countdown-hours").innerHTML = hours;
+    document.getElementById("countdown-minutes").innerHTML = minutes;
+    document.getElementById("countdown-seconds").innerHTML = seconds;
 
     // If the countdown is finished, display a message
     if (distance < 0) {
