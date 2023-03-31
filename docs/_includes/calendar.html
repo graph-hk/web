@@ -24,53 +24,57 @@
   }
 </style>
 
-<div class="calendar">
-  <h2>Upcoming Events</h2>
-  <table>
-    <thead>
+<table>
+  <thead>
+    <tr>
+      <th>Sun</th>
+      <th>Mon</th>
+      <th>Tue</th>
+      <th>Wed</th>
+      <th>Thu</th>
+      <th>Fri</th>
+      <th>Sat</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign month = page.date | date: "%m" %}
+    {% assign year = page.date | date: "%Y" %}
+    {% assign first_day = year | append: "-" | append: month | append: "-01" | date: "%a" %}
+    {% assign days_in_month = year | append: "-" | append: month | append: "-01" | date: "%d" | plus: 1 | date: "%b %Y" | date: "%-d" %}
+    {% assign day = 1 %}
+    {% assign days_left = 7 %}
+    {% assign events = site.data.events | group_by_exp:"item","item.date | date: '%Y-%m-%d'" %}
+    {% for week in (1..6) %}
       <tr>
-        <th>Sun</th>
-        <th>Mon</th>
-        <th>Tue</th>
-        <th>Wed</th>
-        <th>Thu</th>
-        <th>Fri</th>
-        <th>Sat</th>
+        {% for weekday in (1..7) %}
+          {% if week == 1 and weekday == first_day %}
+            {% assign days_left = 7 | minus: forloop.index0 %}
+          {% endif %}
+          {% if day <= days_in_month %}
+            {% assign event = events[day] %}
+            <td>
+              {{ day }}
+              {% if event %}
+                <ul>
+                  {% for e in event %}
+                    <li>
+                      <strong>{{ e.title }}</strong><br>
+                      {{ e.description }}
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </td>
+            {% assign day = day | plus: 1 %}
+            {% assign days_left = days_left | minus: 1 %}
+          {% else %}
+            <td></td>
+          {% endif %}
+        {% endfor %}
       </tr>
-    </thead>
-    <tbody>
-      {% assign events = site.data.events | sort: 'date' %}
-      {% assign current_month = site.time | date: '%-m' %}
-      {% assign current_year = site.time | date: '%Y' %}
-      {% assign start_date = '01-' | append: current_month | append: '-' | append: current_year | date: '%a' %}
-      {% assign days_in_month = site.time | date: '%-d' | plus: 0 %}
-      {% assign blank_days = start_date | date: '%u' | minus: 1 %}
-      {% assign total_days = days_in_month | plus: blank_days %}
-      {% assign rows = total_days | divided_by: 7 %}
-      {% for i in (1..rows) %}
-        <tr>
-          {% for j in (1..7) %}
-            {% assign day_num = j | plus: (i-1)*7 | minus: blank_days %}
-            {% if day_num > 0 and day_num <= days_in_month %}
-              {% assign event_date = current_year | append: '-' | append: current_month | append: '-' | append: day_num %}
-              {% assign event = events | where: 'date', event_date | first %}
-              <td>
-                <div class="day">
-                  <div class="date">{{ day_num }}</div>
-                  {% if event %}
-                    <div class="event">
-                      <div class="title">{{ event.title }}</div>
-                      <div class="description">{{ event.description }}</div>
-                    </div>
-                  {% endif %}
-                </div>
-              </td>
-            {% else %}
-              <td></td>
-            {% endif %}
-          {% endfor %}
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
+      {% if day > days_in_month %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
