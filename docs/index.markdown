@@ -17,7 +17,7 @@ To receive information about our upcoming talks, please sign up our [mailing lis
 If you have a working paper or recent publication on Hong Kong politics, please let us know! 
 
 <form action="https://formspree.io/f/xoqzkngr" method="POST" class="message-box-form">
-  <h2>Leave a Message</h2>
+  <h4>Leave a Message</h4>
 
   <div class="form-group">
     <label for="name">Name:</label>
