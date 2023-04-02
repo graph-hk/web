@@ -1,19 +1,30 @@
 <script>
-  const form = document.getElementById('contact-form');
-
-  form.addEventListener('submit', (event) => {
-    event.preventDefault();
-
-    const name = form.elements.name.value;
-    const email = form.elements.email.value;
-    const message = form.elements.message.value;
-
-    const body = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
-
-    const mailtoLink = `mailto:graph.hk@gmail.com?subject=New message from ${name}&body=${body}`;
-
-    window.location.href = mailtoLink;
+  $(document).ready(function() {
+    $('#contact-form').submit(function(e) {
+      e.preventDefault();
+      var name = $('input[name="name"]').val();
+      var email = $('input[name="email"]').val();
+      var message = $('textarea[name="message"]').val();
+      $.ajax({
+        url: "https://script.google.com/macros/s/1dy61mqcHrVrgH_AaE3nZzr0enFlAAQq7Gi-O130qKJsbLYSujbyRz6QB/exec",
+        method: "GET",
+        dataType: "json",
+        data: {
+          "name": name,
+          "email": email,
+          "message": message
+        },
+        success: function(response) {
+          alert("Thank you for your message!");
+          $('#contact-form')[0].reset();
+        },
+        error: function() {
+          alert("Oops! Something went wrong.");
+        }
+      });
+    });
   });
+
 </script>
 
 
