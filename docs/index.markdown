@@ -14,7 +14,7 @@ The **Global Research Association of Politics in Hong Kong** (GRAPH) is an inter
 
 To receive information about our upcoming talks, please sign up our [mailing list](https://forms.gle/L85raaDrjX3suitM9){:target="_blank"} and follow us on [Twitter](https://twitter.com/graphhk){:target="_blank"}. 
 
-If you have a working paper or recent publication on Hong Kong politics, please let us know! 
+If you have a working paper or recent publication on Hong Kong politics, please let us know :point_down:
 
 <form action="https://formspree.io/f/xoqzkngr" method="POST" class="message-box-form">
   <h3>Leave a Message</h3>
