@@ -17,21 +17,23 @@ To receive information about our upcoming talks, please sign up our [mailing lis
 If you have a working paper or recent publication on Hong Kong politics, please let us know! 
 
 <form action="https://formspree.io/f/xoqzkngr" method="POST" class="message-box-form">
-  <h4>Leave a Message</h4>
+  <h3>Leave a Message</h3>
 
   <div class="form-group">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required>
+    <label for="name">Name</label>
+    <br>
+    <input type="text" id="name" name="name" required style="width: 90%;">
   </div>
 
   <div class="form-group">
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="_replyto" required>
+    <label for="email">Email</label>
+    <br>
+    <input type="email" id="email" name="_replyto" required style="width: 90%;">
   </div>
 
   <div class="form-group">
-    <label for="message">Message:</label>
-    <textarea id="message" name="message" required></textarea>
+    <label for="message">Message</label>
+    <textarea id="message" name="message" required style="width: 90%;"></textarea>
   </div>
 
   <button type="submit">Send</button>
