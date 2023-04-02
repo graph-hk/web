@@ -33,7 +33,8 @@ If you have a working paper or recent publication on Hong Kong politics, please 
 
   <div class="form-group">
     <label for="message">Message</label>
-    <textarea id="message" name="message" required style="width: 90%;"></textarea>
+    <br>
+    <textarea id="message" name="message" required style="width: 90%; height: 200px;"></textarea>
   </div>
 
   <button type="submit">Send</button>
