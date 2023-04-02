@@ -16,15 +16,12 @@ To receive information about our upcoming talks, please sign up our [mailing lis
 
 If you have a working paper or recent publication on Hong Kong politics, please let us know! 
 
-
-<form id="contact-form" method="post" action="#">
-  <input type="text" name="name" placeholder="Your Name">
-  <input type="email" name="email" placeholder="Your Email">
-  <textarea name="message" placeholder="Your Message"></textarea>
-  <button type="submit" class="btn">Send Message</button>
+<form method="POST" action="https://script.google.com/macros/s/AKfycbxhT4lUNz71_7zU931AEuwBcs6sA3S4g9cLt5qo6bo_7uqWYqmz3OkRYw71qwliMALb/exec">
+  <label for="message">Type your message:</label>
+  <input type="text" id="message" name="message">
+  <button type="submit">Send</button>
 </form>
 
-{% include script.html %}
 
 
 
