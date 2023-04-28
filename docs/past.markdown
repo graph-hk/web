@@ -7,7 +7,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
-###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**Apr 28, 2023**: In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
+
+*Speaker* : [Duoduo Xu](https://sociology.hku.hk/people/xu-duoduo/){:target="_blank"}, University of Hong Kong
+
+*Discussant* : [Ye Wang](https://politicalscience.unc.edu/staff/ye-wang/){:target="_blank"}, University of North Carolina at Chapel Hill
+
 
 **Mar 17/18, 2023**: Violent Repression, Relational Positions, and Emotional Mechanisms in Hong Kong’s Anti-Extradition Movement 
 
