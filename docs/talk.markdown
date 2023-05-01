@@ -7,59 +7,35 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
+## Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
 
-## In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
-
-**Date**: Apr 28, 2023
-
-**Time**: 10 pm HK Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
-
-**Speaker**: Duoduo Xu, University of Hong Kong
-
-**Discussant**: Ye Wang, University of North Carolina at Chapel Hill
-
-**[Registration](https://forms.gle/RUE7DbKm8f6Gan7w8){:target="_blank"} Required** 
+**Date**: May 12, 2023
+**Time**: 10 pm Taipei Time; 9 pm Central Time; 10 am Eastern Time
+**Speaker**: Hans Tung, National Taiwan University
+**Discussant**: Eddy Yeung, Emory University
+**[Registration](https://forms.gle/oj1CaQpfQZT1QTea7){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-Occupying public spaces can be an effective tactic for conveying a semantic message of protest and gaining wider support; however, it may also severely disrupt the everyday lives of non-participants and causes a backfire. Therefore, it remains unclear whether and how the occupy movements have shifted political attitudes among the general public. Bringing a social-spatial perspective to the case of the Occupy Central Movement (OCM) in Hong Kong, this study investigates how the attitudinal impact of occupation has varied according to people's spatial proximity to the protest sites. Using two waves of individual-level panel data collected right before and after the OCM and detailed geo-information on the respondents' home addresses and the occupied areas, we apply a difference-in-differences (DIDs) design to identify the causal link between space and attitudes. In addition, propensity score matching (PSM) methods are used to ensure the comparability of nearby and faraway residents. The results show that after the OCM, residents living near the occupied areas not only maintained their support for the pro-democracy camp but also became more liberal as compared to faraway residents. This phenomenon can be explained by the “on-site” effect, which suggests that the direct exposure to protestors' solidarity and the repressive actions of authorities arouse bystanders' sympathy for the protestors and support for their political cause. Such influence appears to be long-lasting and can be evidenced by the local election results after the protest.
+The paper develops a formal model and empirically tests at a micro-level Acemoglu and Robinson's (2006) commitment problem thesis by conducting two conjoint experiments in Hong Kong's recent Anti-Extradition-Law-Amendment-Bill (Anti-ELAB) movement right before and after the National Security Law (NSL) was passed. According to the thesis, the dictator's (redistributive) concessions to rebels won't be credible ex ante without democratization, which leads to a change in the median voter's identity. Our survey experiment provides direct empirical evidence for a micro-level prediction derived from it that a concession without any franchise extensions offered by the government should not be favored vis-a-vis that with them. Moreover, using the NSL as a shock, we also found from our experiment that, counter-intuitively, the NSL as a (soft) repression actually moderated the Acemoglu-Robinson effect by shifting Hong Kongers’ reference points. The paper helps enrich the political economy literatures on authoritarianism and protests by providing both new theoretical insights and empirical evidence for the evolution of the dictator’s commitment problem in a protest-repression nexus.
 
 #### **Speaker**
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picXu.jpg" alt="speaker" width="150"/> [Duoduo Xu](https://sociology.hku.hk/people/xu-duoduo/){:target="_blank"} is an Assistant Professor of Sociology at the University of Hong Kong (2019-present). She also holds joint appointments at the Department of Geography and the Faculty of Arts. Before joining HKU, she was a Research Assistant Professor of Social Science and a Junior Fellow of Institute for Advanced Study at the Hong Kong University of Science and Technology (2017-2019). In 2017, Xu received her PhD in Social Science from HKUST, where she was also trained at the Center for Applied Social and Economic Research (CASER). 
- 
-Xu's research interests center on social stratification and inequality, and lie at the intersection of urban sociology, sociology of education, and sociology of work. In particular, she is interested in understanding: 1) how social-spatial factors (e.g. migration, segregation, location) shape urban residents’ attitudes, behaviors, and life chances; 2) the impacts of various family, school and neighborhood factors on children’s educational and developmental outcomes; 3) young people’s experiences of school-to-work transition, precarious employment and labour market mismatch. Xu’s studies are mainly concerned with child development and youth employment issues in Chinese cities (e.g. Hong Kong, Shanghai, Beijing), and she draws on various longitudinal survey datasets and a range of quantitative methods for causal inference. Her work has appeared in *British Journal of Sociology*, *Work, Employment and Society*, *Chinese Sociological Review*, *Journal of Contemporary China*, *Journal of Ethnic Migration Studies*, among others.
 
+<img align="right" src="{{site.baseurl \| prepend: site.url}}images\/picSpeakerTung.jpg" alt="speaker" width="150"\/> [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html){:target="\_blank"}Hans H. Tung is an associate professor in the Department of Political Science and a faculty associate of the Behavioral and Data Science Research Center and the Center for Research in Econometric Theory and Applications at National Taiwan University. He serves on the editorial boards for PloS One and the Cambridge University Press book series on Taiwan Studies. He is primarily interested in formal and empirical analyses of the political-economic dynamics under authoritarian rule at both macro and micro levels, and has authored several articles in academic journals such as Political Communication, Review of International Organizations, Nature Communications, and Public Opinion Quarterly. More specifically, one strand of his research seeks to uncover the political logic of institutional development under authoritarian regimes. A second strand of his research explores more fundamentally individuals’ political-economic decision-making through experimental methods and data. A third strand builds on the theoretical insights developed from other parts of his research to address various issues regarding how China’s rise on the world stage affects the regional dynamics in East Asia.
 
-<br />
-<br />
-
+<br /><br />
 
 #### **Discussant**
-<img align="left" src="{{site.baseurl | prepend: site.url}}images/picWang.jpg" alt="commentator" width="150"/> [Ye Wang](https://politicalscience.unc.edu/staff/ye-wang/){:target="_blank"} is an Assistant Professor at the Department of Political Science, the University of North Carolina at Chapel Hill. His research focuses on political methodology, especially the identification of spillover effects from policies or events in time, space, or social networks, and how to improve the robustness of research designs and hypothesis testing. He received a PhD from the Wilf Family Department of Politics at New York University. His work has been published in journals such as the *American Journal of Political Science* and *Electoral Studies*. 
-<br />
-<br />
+
+<img align="right" src="{{site.baseurl \| prepend: site.url}}images\/picDiscussantYeung.jpg" alt="commentator" width="150"\/> [Eddy Yeung](https://eddy-yeung.github.io/){:target="\_blank"} is a PhD student in political science at Emory University. He studies comparative public opinion, with a primary focus on how political communication shapes regime support in autocracies and a secondary focus on how individuals form their attitudes toward public policies in democracies. His research has been published in Comparative Political Studies, European Union Politics, International Organization, and Political Behavior.
+
+<br /><br />
 
 ---
 
 
-<br />
-<br />
+
+<br /><br />
 
 # **More to Come**
-
-**May 12, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
-
-*Speaker* : Hans Tung, National Taiwan University
-
-*Discussant* : Eddy Yeung, Emory University
-
-
-
-
-
-
-
-
-
-
 
