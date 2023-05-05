@@ -11,7 +11,7 @@ permalink: /talk/
 
 **Date**: May 12, 2023
 
-**Time**: 10 pm Taipei Time; 9 pm Central Time; 10 am Eastern Time
+**Time**: 10 pm Taipei Time; 9 am Central Time; 10 am Eastern Time
 
 **Speaker**: Hans Tung, National Taiwan University
 
