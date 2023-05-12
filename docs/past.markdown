@@ -13,6 +13,7 @@ permalink: /past/
 
 *Discussant* : [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}, Emory University
 
+**Apr 28, 2023**: In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
 
 *Speaker* : [Duoduo Xu](https://sociology.hku.hk/people/xu-duoduo/){:target="_blank"}, University of Hong Kong
 
