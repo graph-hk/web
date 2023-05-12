@@ -7,6 +7,7 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
+
 **May 12, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
 
 *Speaker* : [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html){:target="_blank"}, National Taiwan University
