@@ -7,7 +7,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
-**Apr 28, 2023**: In Sight, In Mind: Spatial Proximity to Protest Sites and Changes in Peoples' Political Attitudes
+**May 12, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
+
+*Speaker* : [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html){:target="_blank"}, National Taiwan University
+
+*Discussant* : [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}, Emory University
+
 
 *Speaker* : [Duoduo Xu](https://sociology.hku.hk/people/xu-duoduo/){:target="_blank"}, University of Hong Kong
 
