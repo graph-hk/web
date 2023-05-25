@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+parent: About
 permalink: /team/
 ---
 
