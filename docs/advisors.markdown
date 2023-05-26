@@ -7,6 +7,9 @@ permalink: /advisors/
 ![image](/images/picRocks.jpg)
 ###### Image: [Simon Kan](https://www.pexels.com/@simon-kan-56314180/){:target="_blank"}
 
+
+We are fortunate enough to stand on the shoulders of giants.
+
 <br /><br />
 
 
