@@ -4,7 +4,6 @@
 
 title: Home
 layout: home
-parent: true
 ---
 
 ![image](/images/picLeiTungStreet.jpg)
