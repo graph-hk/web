@@ -8,7 +8,7 @@ permalink: /advisors/
 ###### Image: [Simon Kan](https://www.pexels.com/@simon-kan-56314180/){:target="_blank"}
 
 
-### **We are grateful for the opportunity to stand on the shoulders of giants.**
+#### **We are grateful for the opportunity to stand on the shoulders of giants.**
 
 <br /><br />
 
