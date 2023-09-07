@@ -25,7 +25,7 @@ In 2020, China imposed a strict national security law (NSL) in Hong Kong that ai
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerHo.jpg" alt="speaker" width="150"/> [Justin Ho](https://justinchuntingho.github.io/){:target="_blank"}Justin Chun-ting Ho is a postdoctoral researcher at the Amsterdam School of Communication Research. He holds a PhD in Sociology from the University of Edinburgh. His research focuses on nationalism and populism with a focus on how they are communicated via social media. His research employs a range of computational methods, including computational text analysis and social network analysis.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerHo.jpg" alt="speaker" width="150"/> [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"} is a postdoctoral researcher at the Amsterdam School of Communication Research. He holds a PhD in Sociology from the University of Edinburgh. His research focuses on nationalism and populism with a focus on how they are communicated via social media. His research employs a range of computational methods, including computational text analysis and social network analysis.
 
 <br /><br />
 
