@@ -7,31 +7,31 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
-## Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
+## The Effect of State Repression on Online Dissent: The Case of Hong Kong National Security Law
 
-**Date**: May 12, 2023
+**Date**: Sept 22, 2023
 
-**Time**: 10 pm Taipei Time; 9 am Central Time; 10 am Eastern Time
+**Time**: 10 pm Hong Kong Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**Speaker**: Hans Tung, National Taiwan University
+**Speaker**: Justin Ho, Amsterdam School of Communication Research
 
-**Discussant**: Eddy Yeung, Emory University
+**Discussant**: Tetsuro Kobayashi, Waseda University
 
-**[Registration](https://forms.gle/oj1CaQpfQZT1QTea7){:target="\_blank"} Required**
+**[Registration](https://forms.gle/2KAkxLph6XeoB8U79){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-The paper develops a formal model and empirically tests at a micro-level Acemoglu and Robinson's (2006) commitment problem thesis by conducting two conjoint experiments in Hong Kong's recent Anti-Extradition-Law-Amendment-Bill (Anti-ELAB) movement right before and after the National Security Law (NSL) was passed. According to the thesis, the dictator's (redistributive) concessions to rebels won't be credible ex ante without democratization, which leads to a change in the median voter's identity. Our survey experiment provides direct empirical evidence for a micro-level prediction derived from it that a concession without any franchise extensions offered by the government should not be favored vis-a-vis that with them. Moreover, using the NSL as a shock, we also found from our experiment that, counter-intuitively, the NSL as a (soft) repression actually moderated the Acemoglu-Robinson effect by shifting Hong Kongers’ reference points. The paper helps enrich the political economy literatures on authoritarianism and protests by providing both new theoretical insights and empirical evidence for the evolution of the dictator’s commitment problem in a protest-repression nexus.
+In 2020, China imposed a strict national security law (NSL) in Hong Kong that aims to deter secession and subversion activities in Hong Kong. The current literature on state repression suggests three mechanisms through which repression can affect dissent: deterrence, backlash, and tactical shift. Deterrence occurs when people change their behavior for fear that they will be punished in the future; backlash occurs when repression triggers outrage among supporters and in turn fuels dissent; and tactical shift occurs when repression results in alternative forms of political expression. Against this background, this paper focuses on the effect of the NSL on online dissent in Hong Kong. This work utilizes transfer learning language models to identify the topics within a corpus of 3 million Facebook posts and interrupted time series analysis to examine the changes in their prevalence in response to the introduction of the NSL. This study illustrates the changes and continuities in discourse and strategies of online dissent and discusses the roles social media play during movement abeyance.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerTung.jpg" alt="speaker" width="150"/> [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html){:target="_blank"}Hans H. Tung is an associate professor in the Department of Political Science and a faculty associate of the Behavioral and Data Science Research Center and the Center for Research in Econometric Theory and Applications at National Taiwan University. He serves on the editorial boards for PloS One and the Cambridge University Press book series on Taiwan Studies. He is primarily interested in formal and empirical analyses of the political-economic dynamics under authoritarian rule at both macro and micro levels, and has authored several articles in academic journals such as Political Communication, Review of International Organizations, Nature Communications, and Public Opinion Quarterly. More specifically, one strand of his research seeks to uncover the political logic of institutional development under authoritarian regimes. A second strand of his research explores more fundamentally individuals’ political-economic decision-making through experimental methods and data. A third strand builds on the theoretical insights developed from other parts of his research to address various issues regarding how China’s rise on the world stage affects the regional dynamics in East Asia.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerHo.jpg" alt="speaker" width="150"/> [Justin Ho](https://justinchuntingho.github.io/){:target="_blank"}Justin Chun-ting Ho is a postdoctoral researcher at the Amsterdam School of Communication Research. He holds a PhD in Sociology from the University of Edinburgh. His research focuses on nationalism and populism with a focus on how they are communicated via social media. His research employs a range of computational methods, including computational text analysis and social network analysis.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantYeung.jpg" alt="commentator" width="150"/> [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"} is a PhD student in political science at Emory University. He studies comparative public opinion, with a primary focus on how political communication shapes regime support in autocracies and a secondary focus on how individuals form their attitudes toward public policies in democracies. His research has been published in Comparative Political Studies, European Union Politics, International Organization, and Political Behavior.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantKobayashi.jpg" alt="commentator" width="150"/> [Tetsuro Kobayashi](https://www.waseda.jp/fpse/faculty-en/2023/09/01/2390/){:target="_blank"} is a Professor at the School of Political Science and Economics, Waseda University. His study focuses primarily on political communication, political psychology, and public opinion, with a particular emphasis on East Asia. Before joining Waseda University, he had held positions at the National Institute of Informatics and City University of Hong Kong. His extensive research has been published in prestigious peer-reviewed journals spanning the fields of political science, communication, and psychology.
 
 <br /><br />
 
