@@ -7,6 +7,11 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
+**Sept 22, 2023**: The Effect of State Repression on Online Dissent: The Case of Hong Kong National Security Law
+
+*Speaker* : [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"}, Amsterdam School of Communication Research
+
+*Discussant* : [Tetsuro Kobayashi](https://www.waseda.jp/fpse/faculty-en/2023/09/01/2390/){:target="_blank"}, Waseda University
 
 **May 12, 2023**: Dictator's Commitment Problem in a Protest-Repression Nexus: Evidence from Hong Kong's Anti-ELAB Movement
 
