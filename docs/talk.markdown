@@ -38,6 +38,8 @@ Do you have a research project using survey methods? Are you interested in condu
 
 <img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeaker2Tang.jpg" alt="speaker" width="150"/> [Dr. Gary Tang](https://ssc.hsu.edu.hk/academic/gary_tang/){:target="_blank"} is an Associate Professor in the Department of Social Science at Hang Seng University of Hong Kong. His research interests include political communication and citizenship. His articles have been published in Social Science Computer Review, China Quarterly, and Social Indicators Research.
 
+<br /><br />
+
 ---
 
 
