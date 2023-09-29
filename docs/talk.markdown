@@ -50,4 +50,4 @@ Do you have a research project using survey methods? Are you interested in condu
 
 *Speaker* : Eddy Yeung
 
-To Be Announced.
+*Discussant* : To Be Announced.
