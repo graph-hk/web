@@ -7,33 +7,40 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
-## The Effect of State Repression on Online Dissent: The Case of Hong Kong National Security Law
+## Challenges and Opportunities in Conducting Survey Research on Hong Kongers at Home and Abroad
 
-**Date**: Sept 22, 2023
+**Date**: Oct 27, 2023
 
 **Time**: 10 pm Hong Kong Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**Speaker**: Justin Ho, Amsterdam School of Communication Research
+**Speakers**: Polly Chan (UC Berkeley), Maggie Shum (Penn State Erie), and Gary Tang (The Hang Seng University of Hong Kong)
 
-**Discussant**: Tetsuro Kobayashi, Waseda University
+<!-- **Discussant**: Polly Chan, UC Berkeley -->
 
-**[Registration](https://forms.gle/2KAkxLph6XeoB8U79){:target="\_blank"} Required**
+**[Registration](https://forms.gle/hB7Dy7Me5cp5498r7){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-In 2020, China imposed a strict national security law (NSL) in Hong Kong that aims to deter secession and subversion activities in Hong Kong. The current literature on state repression suggests three mechanisms through which repression can affect dissent: deterrence, backlash, and tactical shift. Deterrence occurs when people change their behavior for fear that they will be punished in the future; backlash occurs when repression triggers outrage among supporters and in turn fuels dissent; and tactical shift occurs when repression results in alternative forms of political expression. Against this background, this paper focuses on the effect of the NSL on online dissent in Hong Kong. This work utilizes transfer learning language models to identify the topics within a corpus of 3 million Facebook posts and interrupted time series analysis to examine the changes in their prevalence in response to the introduction of the NSL. This study illustrates the changes and continuities in discourse and strategies of online dissent and discusses the roles social media play during movement abeyance.
+Do you have a research project using survey methods? Are you interested in conducting a survey study on Hongkongers but not sure where to start? We invite you to the first GRAPH lighting round and share with us your ideas or questions about surveying Hongkongers. Also Joining this event are our three guest speakers – Gary Tang (The Hang Seng University of Hong Kong), Maggie Shum (Penn State Erie), and Polly Chan (UC Berkeley) – who will share their insights and experiences in conducting survey research in Hong Kong as well as in the Hong Kong diaspora communities. Together, we will explore topics such as the threats of self-censorship, studying a hard-to-reach population (Hong Kong diaspora), funding and collaboration opportunities, and future survey research avenues in Hong Kong studies.
 
-#### **Speaker**
+#### **Speakers**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerHo.jpg" alt="speaker" width="150"/> [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"} is a postdoctoral researcher at the Amsterdam School of Communication Research. He holds a PhD in Sociology from the University of Edinburgh. His research focuses on nationalism and populism with a focus on how they are communicated via social media. His research employs a range of computational methods, including computational text analysis and social network analysis.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantChan.jpg" alt="commentator" width="150"/> [Polly Chan](https://pollyjchan.github.io/){:target="_blank"} is a PhD student in the Department of Political Science at the University of California, Berkeley. Her work has been published in the International Journal of Public Opinion Research and Japanese Journal of Political Science.
+
+
+<br /><br />
+
+<!--  #### **Discussant** -->
+
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantChan.jpg" alt="commentator" width="150"/> [Polly Chan](https://pollyjchan.github.io/){:target="_blank"} is a PhD student in the Department of Political Science at the University of California, Berkeley. Her work has been published in the International Journal of Public Opinion Research and Japanese Journal of Political Science.
 
 <br /><br />
 
-#### **Discussant**
-
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantKobayashi.jpg" alt="commentator" width="150"/> [Tetsuro Kobayashi](https://www.waseda.jp/fpse/faculty-en/2023/09/01/2390/){:target="_blank"} is a Professor at the School of Political Science and Economics, Waseda University. His study focuses primarily on political communication, political psychology, and public opinion, with a particular emphasis on East Asia. Before joining Waseda University, he had held positions at the National Institute of Informatics and City University of Hong Kong. His extensive research has been published in prestigious peer-reviewed journals spanning the fields of political science, communication, and psychology.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerShum.jpg" alt="speaker" width="150"/> [Dr. Maggie Shum](http://www.maggieshum.com/){:target="_blank"} is an assistant professor of political science at Penn State Erie, the Behrend College. She received her PhD in political science at the University of Notre Dame, specializing in comparative politics with two regional focuses in Latin America and East Asia (Hong Kong and Taiwan). Her research interests include transnational contentious politics, social movement, diasporas politics, party organization, participatory institutions, and public opinion. Dr. Shum is currently working on research projects focusing on how Hong Kong diasporas (re)construct their collective identity abroad, and how they navigate between the concerns of the homeland and their well-being in the host country such as the US. Her academic works have been published or accepted in Journal of Asian and African Studies, and Japanese Journal of Political Science, and her policy writings on Hong Kong can be found in the Monkey Cage in the Washington Post, Mischief of Factions, and the Diplomat. In addition, she pens the Freedom of the World report on Hong Kong, and serves as the country expert on Hong Kong in the Varieties of Democracy (V-Dem).
 
 <br /><br />
+
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeaker2Tang.jpg" alt="speaker" width="150"/> [Dr. Gary Tang](https://ssc.hsu.edu.hk/academic/gary_tang/){:target="_blank"} is an Associate Professor in the Department of Social Science at Hang Seng University of Hong Kong. His research interests include political communication and citizenship. His articles have been published in Social Science Computer Review, China Quarterly, and Social Indicators Research.
 
 ---
 
@@ -42,5 +49,9 @@ In 2020, China imposed a strict national security law (NSL) in Hong Kong that ai
 <br /><br />
 
 # **More to Come**
+
+**11/2023**: The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings
+
+*Speaker* : Eddy Yeung
 
 To Be Announced.
