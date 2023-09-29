@@ -32,10 +32,6 @@ Do you have a research project using survey methods? Are you interested in condu
 
 <!--  #### **Discussant** -->
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantChan.jpg" alt="commentator" width="150"/> [Polly Chan](https://pollyjchan.github.io/){:target="_blank"} is a PhD student in the Department of Political Science at the University of California, Berkeley. Her work has been published in the International Journal of Public Opinion Research and Japanese Journal of Political Science.
-
-<br /><br />
-
 <img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerShum.jpg" alt="speaker" width="150"/> [Dr. Maggie Shum](http://www.maggieshum.com/){:target="_blank"} is an assistant professor of political science at Penn State Erie, the Behrend College. She received her PhD in political science at the University of Notre Dame, specializing in comparative politics with two regional focuses in Latin America and East Asia (Hong Kong and Taiwan). Her research interests include transnational contentious politics, social movement, diasporas politics, party organization, participatory institutions, and public opinion. Dr. Shum is currently working on research projects focusing on how Hong Kong diasporas (re)construct their collective identity abroad, and how they navigate between the concerns of the homeland and their well-being in the host country such as the US. Her academic works have been published or accepted in Journal of Asian and African Studies, and Japanese Journal of Political Science, and her policy writings on Hong Kong can be found in the Monkey Cage in the Washington Post, Mischief of Factions, and the Diplomat. In addition, she pens the Freedom of the World report on Hong Kong, and serves as the country expert on Hong Kong in the Varieties of Democracy (V-Dem).
 
 <br /><br />
