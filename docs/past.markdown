@@ -5,6 +5,13 @@ permalink: /past/
 ---
 
 ![image](/images/picCulturalCenter.jpg)
+**October 27, 2023**: Lightning Round: The Challenges and Opportunities in Conducting Survey Research on Hong Kongers at Home and Abroad
+
+*Speaker* : [Polly Chan](https://pollyjchan.github.io/){:target="_blank"}, University of California, Berkeley
+
+*Speaker* : [Maggie Shum](http://www.maggieshum.com/){:target="_blank"}, Penn State Erie
+
+*Speaker* : [Gary Tang](https://ssc.hsu.edu.hk/academic/gary_tang/){:target="_blank"}, The Hang Seng University of Hong Kong
 
 
 **Sept 22, 2023**: The Effect of State Repression on Online Dissent: The Case of Hong Kong National Security Law
