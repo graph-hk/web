@@ -11,7 +11,7 @@ permalink: /talk/
 
 **Date**: December 1, 2023
 
-**Time**: 10 am Central Time; 11 am Eastern Time; 8 am Pacific Time; 12 am Hong Kong Time
+**Time**: 12 am Hong Kong Time; 10 am Central Time; 11 am Eastern Time; 8 am Pacific Time
 
 **Speaker**: Eddy Yeung, Emory University
 
