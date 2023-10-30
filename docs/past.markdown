@@ -5,6 +5,9 @@ permalink: /past/
 ---
 
 ![image](/images/picCulturalCenter.jpg)
+
+<br />
+
 **October 27, 2023**: Lightning Round: The Challenges and Opportunities in Conducting Survey Research on Hong Kongers at Home and Abroad
 
 *Speaker* : [Polly Chan](https://pollyjchan.github.io/){:target="_blank"}, University of California, Berkeley
