@@ -20,5 +20,5 @@ permalink: /team/
 
 **[Sanho Chung](https://sanhochung.netlify.app/){:target="_blank"}** is a Ph.D. candidate in Political Science from the School of Government and Public Policy (SGPP), University of Arizona. His research interests rest on clientelism, democracy & autocracy, as well as the politics of Hong Kong and Taiwan. His academic works have appeared or will appear in *Journal of Sport and Social Issues* (Forthcoming), *China Perspectives* and *Contemporary Chinese Political Economy and Strategic Relations: An International Journal*.
 
-
+**[Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}** is a PhD candidate in political science at Emory University. He studies the interplay between public opinion and political communication, with regional foci on East Asia and the United States. His primary research focuses on how propaganda manipulates political attitudes and generates democratic legitimacy in autocracies, how ideology and misinformation shape the formation of political preferences in democracies, and how public opinion in autocracies and democracies interacts in international relations. He has a secondary interest in measurement in survey research. His articles have been published in *Comparative Political Studies*, *European Union Politics*, *International Organization*, and *Political Behavior*.
 
