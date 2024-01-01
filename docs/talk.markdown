@@ -25,7 +25,7 @@ In the summer of 2019, at the height of the anti-extradition bill protests, a we
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerTsui.jpg" alt="speaker" width="150"/> [Lokman Tsui a Research Fellow with the Citizen Lab at the Munk School of Global Affairs and Public Policy of the University of Toronto. H](https://www.lokman.org/){:target="_blank"}is research touches on freedom of expression, digital rights and Hong Kong. He was an Assistant Professor at the School of Journalism and Communication of the Chinese University of Hong Kong (2014-2021). Before CUHK, Tsui was Google’s Head of Free Expression for Asia and the Pacific (2011-2014). Tsui was a Faculty Associate (2015-17) and a Fellow (2008-9) at Harvard’s Berkman Klein Center for Internet & Society. He received his PhD degree from the Annenberg School for Communication at the University of Pennsylvania.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerTsui.jpg" alt="speaker" width="150"/> [Lokman Tsui](https://www.lokman.org/){:target="_blank"} is a Research Fellow with the Citizen Lab at the Munk School of Global Affairs and Public Policy of the University of Toronto. His research touches on freedom of expression, digital rights and Hong Kong. He was an Assistant Professor at the School of Journalism and Communication of the Chinese University of Hong Kong (2014-2021). Before CUHK, Tsui was Google’s Head of Free Expression for Asia and the Pacific (2011-2014). Tsui was a Faculty Associate (2015-17) and a Fellow (2008-9) at Harvard’s Berkman Klein Center for Internet & Society. He received his PhD degree from the Annenberg School for Communication at the University of Pennsylvania.
 
 <br /><br />
 
