@@ -7,31 +7,31 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
-## The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings
+## Punch Down Doxxing: HKLEAKS and the implications of state sponsored doxxing for digital authoritianism
 
-**Date**: December 1, 2023
+**Date**: January 26, 2024
 
-**Time**: 12 am Hong Kong Time; 10 am Central Time; 11 am Eastern Time; 8 am Pacific Time
+**Time**: 11 pm Hong Kong Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**Speaker**: Eddy Yeung, Emory University
+**Speaker**: Lokman Tsui, Citizen Lab
 
-**Discussant**: Daniel Mattingly, Yale University
+**Discussant**: Justin Ho, Amsterdam School of Commmunication Research
 
-**[Registration](https://forms.gle/6qz6uYv28FZYpPPo8){:target="\_blank"} Required**
+**[Registration](https://forms.gle/RHWHNYwYZU6Rt5Sw9){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-In contemporary autocracies where democratic uprisings have gained momentum, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices, such propaganda directs its rhetoric and public attention toward the opposition and the ongoing movement. What is the political logic behind it? Drawing on literature in social psychology and social movements, I argue that such propaganda aims to provoke and radicalize the opposition. By radicalizing protesters in social movements, the autocrat can discredit regime opponents and dissuade the rest of the public from joining forces with the opposition. Thus, provocative propaganda can help delegitimize the opposition and impede democratic uprisings, beneﬁting authoritarian survival. I test the microfoundations of my theory by exploiting real-world provocative propaganda in Hong Kong. The preregistered experiment shows microlevel evidence consistent with my theory and less consistent with existing theories of autocratic propaganda. These ﬁndings bring new theoretical insights to the scholarship on propaganda and have broader implications for strategic provocation in politics.
+In the summer of 2019, at the height of the anti-extradition bill protests, a website that called itself HKLEAKS appeared seemingly out of nowhere, that ended up doxxing thousands of protesters, legislators, activists, teachers, students, journalists, who were all considered critical of the government. This talk will discuss the HKLEAKS doxxing campaign, including to what extent it was possible to find out who was behind the campaign, to what extent the state was involved in it, and what implications this kind of “punch down” doxxing has for digital authoritarianism. We argue that the HKLEAKS campaign was designed by professional actors with the specific goal to avoid attribution and that they succeeded in doing so. We also argue that HKLEAKS was a campaign that the state directly or indirectly enabled and supported. Last but not least, we suggest that state-sponsored doxxing is a form of digital repression that would not be difficult to replicate or export elsewhere, raising larger questions about the future of digital authoritarianism.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerYeung.jpg" alt="speaker" width="150"/> [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"} is a PhD student in political science at Emory University. He studies comparative public opinion, with a primary focus on how political communication shapes regime support in autocracies and a secondary focus on how individuals form their attitudes toward public policies in democracies. His research has been published in Comparative Political Studies, European Union Politics, International Organization, and Political Behavior.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerTsui.jpg" alt="speaker" width="150"/> [Lokman Tsui a Research Fellow with the Citizen Lab at the Munk School of Global Affairs and Public Policy of the University of Toronto. H](https://www.lokman.org/){:target="_blank"}is research touches on freedom of expression, digital rights and Hong Kong. He was an Assistant Professor at the School of Journalism and Communication of the Chinese University of Hong Kong (2014-2021). Before CUHK, Tsui was Google’s Head of Free Expression for Asia and the Pacific (2011-2014). Tsui was a Faculty Associate (2015-17) and a Fellow (2008-9) at Harvard’s Berkman Klein Center for Internet & Society. He received his PhD degree from the Annenberg School for Communication at the University of Pennsylvania.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantMattingly.jpg" alt="commentator" width="150"/> [Daniel Mattingly](https://daniel-mattingly.com/){:target="_blank"} is an Assistant Professor of Political Science at Yale University. His research focuses on the domestic and international politics of authoritarian regimes, historical political economy, and China. He is the author of The Art of Political Control in China (Cambridge University Press, 2020). It received the best book award from the Democracy and Autocracy Section of the American Political Science Association, was named a book of the year by Foreign Affairs, and won the Gaddis Smith International Book Prize. Currently, Professor Mattingly is working on a new book on the role of the military and ideology in elite politics in China. A related article won the Luebbert Best Article Award from the Comparative Politics Section of APSA.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantHo.jpg" alt="commentator" width="150"/> [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"} is a postdoctoral researcher at the Amsterdam School of Communication Research. He holds a PhD in Sociology from the University of Edinburgh. His research focuses on nationalism and populism with a focus on how they are communicated via social media. His research employs a range of computational methods, including computational text analysis and social network analysis.
 
 <br /><br />
 

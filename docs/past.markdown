@@ -7,6 +7,11 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
+**December 1, 2023**: The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings
+
+*Speaker* : [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices
+
+*Discussant* : [Daniel Mattingly](https://daniel-mattingly.com/){:target="_blank"}, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices
 
 **October 27, 2023**: Lightning Round: The Challenges and Opportunities in Conducting Survey Research on Hong Kongers at Home and Abroad
 
