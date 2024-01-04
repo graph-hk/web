@@ -7,7 +7,7 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
-## Punch Down Doxxing: HKLEAKS and the implications of state sponsored doxxing for digital authoritianism
+## Punch Down Doxxing: HKLEAKS and the implications of state sponsored doxxing for digital authoritarianism
 
 **Date**: January 26, 2024
 
