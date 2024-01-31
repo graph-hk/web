@@ -7,7 +7,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
-**December 1, 2023**: The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings
+**January 26, 2024**: Punch Down Doxxing: HKLEAKS and the implications of state sponsored doxxing for digital authoritarianism
+
+*Speaker* : [Lokman Tsui](https://www.lokman.org/){:target="_blank"}, Citizen Lab
+
+*Discussant* : [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"}, Amsterdam School of Commmunication Research
+
 
 *Speaker* : [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices
 

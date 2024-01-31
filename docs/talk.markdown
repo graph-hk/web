@@ -7,31 +7,31 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
-## Punch Down Doxxing: HKLEAKS and the implications of state sponsored doxxing for digital authoritarianism
+## A Tale of Two Cities: Spillover Effects of Electoral Shocks in Non-democratic Regimes
 
-**Date**: January 26, 2024
+**Date**: February 26, 2024
 
-**Time**: 11 pm Hong Kong Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
+**Time**: 10:30 pm Hong Kong Time; 8:30 am Central Time; 9:30 am Eastern Time; 6:30 am Pacific Time
 
-**Speaker**: Lokman Tsui, Citizen Lab
+**Speaker**: Chan Ka Ming, Newcastle University
 
-**Discussant**: Justin Ho, Amsterdam School of Commmunication Research
+**Discussant**: Nick Or, The City University of Hong Kong
 
-**[Registration](https://forms.gle/RHWHNYwYZU6Rt5Sw9){:target="\_blank"} Required**
+**[Registration](https://forms.gle/gLYJAuPVpVusdnx58){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-In the summer of 2019, at the height of the anti-extradition bill protests, a website that called itself HKLEAKS appeared seemingly out of nowhere, that ended up doxxing thousands of protesters, legislators, activists, teachers, students, journalists, who were all considered critical of the government. This talk will discuss the HKLEAKS doxxing campaign, including to what extent it was possible to find out who was behind the campaign, to what extent the state was involved in it, and what implications this kind of “punch down” doxxing has for digital authoritarianism. We argue that the HKLEAKS campaign was designed by professional actors with the specific goal to avoid attribution and that they succeeded in doing so. We also argue that HKLEAKS was a campaign that the state directly or indirectly enabled and supported. Last but not least, we suggest that state-sponsored doxxing is a form of digital repression that would not be difficult to replicate or export elsewhere, raising larger questions about the future of digital authoritarianism.
+Electoral shocks have spillover effects in democracies, as they can change citizens’ political attitudes and vote preferences across national borders. Yet, electoral shocks also exist in non-democratic regimes. Do electoral shocks likewise lead to spillover within a non-democratic regime? To explore this question, I study the 2019 Hong Kong local election, in which the opposition won a landslide victory. Using a survey fielded in Macau during this event, I find short-lived liberalizing effects among middle-class citizens: after the electoral shock, their democratic commitment increases while their perceived electoral fairness decreases. Conversely, lower-class citizens experience a backlash effect as they assess the electoral system more positively. Surprisingly, the electoral shock does not change vote preferences. In terms of mechanism, I suggest these polarized reactions are related to the different information consumption among the two classes. These findings demonstrate how electoral shocks in non-democratic regimes shape citizens’ political attitudes across subnational borders.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerTsui.jpg" alt="speaker" width="150"/> [Lokman Tsui](https://www.lokman.org/){:target="_blank"} is a Research Fellow with the Citizen Lab at the Munk School of Global Affairs and Public Policy of the University of Toronto. His research touches on freedom of expression, digital rights and Hong Kong. He was an Assistant Professor at the School of Journalism and Communication of the Chinese University of Hong Kong (2014-2021). Before CUHK, Tsui was Google’s Head of Free Expression for Asia and the Pacific (2011-2014). Tsui was a Faculty Associate (2015-17) and a Fellow (2008-9) at Harvard’s Berkman Klein Center for Internet & Society. He received his PhD degree from the Annenberg School for Communication at the University of Pennsylvania.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChan.jpg" alt="speaker" width="150"/> [Chan Ka Ming](https://www.kmchan.page/){:target="_blank"} is an Assistant Professor in Comparative Politics at Newcastle University. His substantive research interest lies in the intersection of autocratization, radical politics, and information updating during elections. He is currently working on a project titled “Spillover in an Autocratization Age (SpAA)”.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantHo.jpg" alt="commentator" width="150"/> [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"} is a postdoctoral researcher at the Amsterdam School of Communication Research. He holds a PhD in Sociology from the University of Edinburgh. His research focuses on nationalism and populism with a focus on how they are communicated via social media. His research employs a range of computational methods, including computational text analysis and social network analysis.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantOr.jpg" alt="commentator" width="150"/> [Nick Or](https://scholars.cityu.edu.hk/en/persons/nick-h-k-or(fb1db10b-f70a-4410-9361-08a2938d7429).html){:target="_blank"} is an Assistant Professor in the Department of Public Policy at the CityU. Prior to that, Nick was a Research Fellow at the University of Southampton and a Postdoctoral Research Associate at the University of Exeter. Nick’s research interests lie in the field of public policy, comparative politics and authoritarian regimes by drawing insights from behavioral and complexity sciences, using quantitative techniques and experimental methods. One main theme of his research examines the effects of regime transition and globalization on policy agendas – how policymakers allocate their attention to various policy issues such as the economy, health and education. He is also interested in studying how individuals and organizations process policy-related information as well as Hong Kong Politics. His works can be seen in Public Administration, Policy Studies Journal, Journal of Elections, Public Opinion and Parties, British Journal of Social Psychology, and other journals.
 
 <br /><br />
 
