@@ -14,9 +14,12 @@ permalink: /past/
 *Discussant* : [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"}, Amsterdam School of Commmunication Research
 
 
-*Speaker* : [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices
+**December 1, 2023**: The Logic of Provocative Propaganda in the Shadow of Democratic Uprisings
 
-*Discussant* : [Daniel Mattingly](https://daniel-mattingly.com/){:target="_blank"}, a special form of propaganda exists: political messages that blatantly taunt or mock the opposition. Instead of diverting citizens’ attention away from opposition voices
+*Speaker* : [Eddy Yeung](https://eddy-yeung.github.io/){:target="_blank"}, Emory University
+
+*Discussant* : [Daniel Mattingly](https://daniel-mattingly.com/){:target="_blank"}, Yale University
+
 
 **October 27, 2023**: Lightning Round: The Challenges and Opportunities in Conducting Survey Research on Hong Kongers at Home and Abroad
 
