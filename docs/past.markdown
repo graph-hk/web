@@ -7,7 +7,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 
-**January 26, 2024**: Punch Down Doxxing: HKLEAKS and the implications of state sponsored doxxing for digital authoritarianism
+**February 26, 2024**: A Tale of Two Cities: Spillover Effects of Electoral Shocks in Non-democratic Regimes
+
+*Speaker* : [Chan Ka Ming](https://www.kmchan.page/){:target="_blank"}, Newcastle University
+
+*Discussant* : [Nick Or](https://scholars.cityu.edu.hk/en/persons/nick-h-k-or(fb1db10b-f70a-4410-9361-08a2938d7429).html){:target="_blank"}, The City University of Hong Kong
+
 
 *Speaker* : [Lokman Tsui](https://www.lokman.org/){:target="_blank"}, Citizen Lab
 

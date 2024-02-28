@@ -7,31 +7,31 @@ permalink: /talk/
 ![image](/images/picProtestArt.jpg)
 
 # **What's Next**
-## A Tale of Two Cities: Spillover Effects of Electoral Shocks in Non-democratic Regimes
+## When Nation Building Fails: How Chinese People React to the Rise of Hong Kong Identity
 
-**Date**: February 26, 2024
+**Date**: March 29, 2024
 
-**Time**: 10:30 pm Hong Kong Time; 8:30 am Central Time; 9:30 am Eastern Time; 6:30 am Pacific Time
+**Time**: 10 pm Hong Kong Time; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**Speaker**: Chan Ka Ming, Newcastle University
+**Speaker**: Gary Leung, Yale University
 
-**Discussant**: Nick Or, The City University of Hong Kong
+**Discussant**: Siu-yau Lee, Hong Kong Baptist University
 
-**[Registration](https://forms.gle/gLYJAuPVpVusdnx58){:target="\_blank"} Required**
+**[Registration](https://forms.gle/9Mom9aR4m5eBsyv67){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-Electoral shocks have spillover effects in democracies, as they can change citizens’ political attitudes and vote preferences across national borders. Yet, electoral shocks also exist in non-democratic regimes. Do electoral shocks likewise lead to spillover within a non-democratic regime? To explore this question, I study the 2019 Hong Kong local election, in which the opposition won a landslide victory. Using a survey fielded in Macau during this event, I find short-lived liberalizing effects among middle-class citizens: after the electoral shock, their democratic commitment increases while their perceived electoral fairness decreases. Conversely, lower-class citizens experience a backlash effect as they assess the electoral system more positively. Surprisingly, the electoral shock does not change vote preferences. In terms of mechanism, I suggest these polarized reactions are related to the different information consumption among the two classes. These findings demonstrate how electoral shocks in non-democratic regimes shape citizens’ political attitudes across subnational borders.
+How do mainland Chinese citizens react to the rise of Hong Kong identity? Many states adopt assimilationist policies in an attempt to create a cohesive national identity among their populations. Yet, despite numerous failed nation-building efforts, we have limited understanding of how such failures impact the sentiments of the majority group. In this study, I use a survey experiment to understand the effects of Hong Kong’s identity crisis on the political and nationalist attitudes of mainland Chinese citizens, with some participants receiving accurate data regarding the proportion of Hong Kong residents who identify as Chinese. I find that among the participants with prior beliefs above the truth, the information about Hong Kong’s people identity weakened their perception of China’s international standing and reduced their national identification. Additionally, the results reveal that preferences for stricter Hong Kong policies arise from a negative update about the nation-building effectiveness, while support for more aggressive Taiwan policies is driven by a positive update. These findings enhance our understanding of intergroup dynamics and the motivations behind efforts to impose a national identity on minority groups.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChan.jpg" alt="speaker" width="150"/> [Chan Ka Ming](https://www.kmchan.page/){:target="_blank"} is an Assistant Professor in Comparative Politics at Newcastle University. His substantive research interest lies in the intersection of autocratization, radical politics, and information updating during elections. He is currently working on a project titled “Spillover in an Autocratization Age (SpAA)”.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerLeung.jpg" alt="speaker" width="150"/> [Gary Leung](https://politicalscience.yale.edu/people/gary-leung){:target="_blank"} is a third-year PhD student in Political Science at Yale University, focusing on nationalism, intergroup relations, and political psychology in non-democratic contexts.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantOr.jpg" alt="commentator" width="150"/> [Nick Or](https://scholars.cityu.edu.hk/en/persons/nick-h-k-or(fb1db10b-f70a-4410-9361-08a2938d7429).html){:target="_blank"} is an Assistant Professor in the Department of Public Policy at the CityU. Prior to that, Nick was a Research Fellow at the University of Southampton and a Postdoctoral Research Associate at the University of Exeter. Nick’s research interests lie in the field of public policy, comparative politics and authoritarian regimes by drawing insights from behavioral and complexity sciences, using quantitative techniques and experimental methods. One main theme of his research examines the effects of regime transition and globalization on policy agendas – how policymakers allocate their attention to various policy issues such as the economy, health and education. He is also interested in studying how individuals and organizations process policy-related information as well as Hong Kong Politics. His works can be seen in Public Administration, Policy Studies Journal, Journal of Elections, Public Opinion and Parties, British Journal of Social Psychology, and other journals.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantLee.jpg" alt="commentator" width="150"/> [Siu-yau LEE](https://sites.google.com/site/siuyaulee/home){:target="_blank"} is an Associate Professor in the Department of Government and International Studies, Hong Kong Baptist University. His research focuses on immigration politics, inter-group relations, identity, and population policies.
 
 <br /><br />
 
@@ -42,5 +42,9 @@ Electoral shocks have spillover effects in democracies, as they can change citi
 <br /><br />
 
 # **More to Come**
+
+**04/2024**: Legal Resistance under the Shadow of Authoritarianism: The Struggle for the Rule of Law in Post-Umbrella Hong Kong
+
+*Speaker* : Eric Yan-ho Lai
 
 To Be Announced.
