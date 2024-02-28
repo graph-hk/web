@@ -14,6 +14,8 @@ permalink: /past/
 *Discussant* : [Nick Or](https://scholars.cityu.edu.hk/en/persons/nick-h-k-or(fb1db10b-f70a-4410-9361-08a2938d7429).html){:target="_blank"}, The City University of Hong Kong
 
 
+**January 26, 2024**: Punch Down Doxxing: HKLEAKS and the Implications of State-sponsored Doxxing for Digital Authoritarianism
+
 *Speaker* : [Lokman Tsui](https://www.lokman.org/){:target="_blank"}, Citizen Lab
 
 *Discussant* : [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"}, Amsterdam School of Commmunication Research
