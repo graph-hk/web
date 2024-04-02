@@ -6,6 +6,11 @@ permalink: /past/
 
 ![image](/images/picCulturalCenter.jpg)
 
+**March 29, 2024**: When Nation Building Fails: How Chinese People React to the Rise of Hong Kong Identity
+
+*Speaker* : [Gary Leung](https://politicalscience.yale.edu/people/gary-leung){:target="_blank"}, Yale University
+
+*Discussant* : [Siu-yau LEE](https://sites.google.com/site/siuyaulee/home){:target="_blank"}, Hong Kong Baptist University
 
 **February 26, 2024**: A Tale of Two Cities: Spillover Effects of Electoral Shocks in Non-democratic Regimes
 
