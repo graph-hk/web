@@ -15,7 +15,7 @@ permalink: /talk/
 
 **Speaker**: Eric Lai, Georgetown University
 
-**Discussant**: Jothie Rajah, American Bar Association
+**Discussant**: Jothie Rajah, American Bar Foundation
 
 **[Registration](https://forms.gle/AbUhFakUBpsyTdGw5){:target="\_blank"} Required**
 
