@@ -6,7 +6,12 @@ permalink: /past/
 
 ![image](/images/picCulturalCenter.jpg)
 
-**March 29, 2024**: When Nation Building Fails: How Chinese People React to the Rise of Hong Kong Identity
+**April 26, 2024**: Legal Resistance under the Shadow of Authoritarianism: The Struggle for the Rule of Law in Post-Umbrella Hong Kong
+
+*Speaker* : [Eric Yan-ho Lai](https://www.ericyanholai.com){:target="_blank"}, Georgetown University
+
+*Discussant* : [Jothie Rajah](https://www.americanbarfoundation.org/people/jothie-rajah/){:target="_blank"}, American Bar Foundation
+
 
 *Speaker* : [Gary Leung](https://politicalscience.yale.edu/people/gary-leung){:target="_blank"}, Yale University
 
