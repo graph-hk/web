@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Upcoming Talks
+parent: Home
 permalink: /talk/
 ---
 
