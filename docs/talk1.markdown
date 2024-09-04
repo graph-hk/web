@@ -16,6 +16,8 @@ permalink: /talk/
 
 **Speaker**: Eliza Lee, University of Hong Kong
 
+**Discussant**: Ray Yep, University of Bristol
+
 **[Registration](https://forms.gle/VaVzUJ34ogwTu5Pp6){:target="\_blank"} Required**
 
 {% include countdown.html %}
@@ -28,7 +30,9 @@ Unlike many recent cases of autocratization, which tends to be a gradual process
 
 <br /><br />
 
+#### **Discussant**
 
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantYep.jpg" alt="commentator" width="150"/> [Ray Yep](https://www.bristol.ac.uk/people/person/Ray-Yep-9416e5d2-1337-49e1-8747-6351f2a6c461/){:target="_blank"} is Research Director of Hong Kong History Centre of University of Bristol. His latest publications includes Man in a Hurry: Murray MacLehose and Colonial Autonomy in Hong Kong (Hong Kong University Press, 2024) and Routledge Handbook of Contemporary Hong Kong (Routledge: 2018).
 
 <br /><br />
 
