@@ -7,7 +7,6 @@ permalink: /talk/
 
 ![image](/images/picProtestArt.jpg)
 
-# **What's Next**
 ## Making Sense of the Autocratization Process in Hong Kong
 
 **Date**: September 27, 2024
@@ -15,6 +14,8 @@ permalink: /talk/
 **Time**: 10:30 pm Hong Kong Time; 9:30 am Central Time; 10:30 am Eastern Time; 7:30 am Pacific Time
 
 **Speaker**: Eliza Lee, University of Hong Kong
+
+**Discussant**: Ming Sing, Formerly of the Hong Kong University of Science and Technology
 
 **[Registration](https://forms.gle/VaVzUJ34ogwTu5Pp6){:target="\_blank"} Required**
 
@@ -28,7 +29,10 @@ Unlike many recent cases of autocratization, which tends to be a gradual process
 
 <br /><br />
 
+#### **Discussant**
 
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantSing.jpg" alt="commentator" width="150"/> [Sing Ming](https://www.researchgate.net/profile/Ming-Sing-2){:target="_blank"} has been the author or editor of six books and over forty articles. His refereed publications can be found in the Journal of Politics, Journal of Democracy, Democratization, Government and Opposition, Social Indicators Research, and Communist and Post-Communist Studies, among others. He is the author of Hong Kong’s Tortuous Democratization (Routledge 2004) and the coeditor of Taking Back Our Future: An Eventful Sociology of the Hong Kong Umbrella Movement (Cornell University Press 2019). His research interests include the comparative study of democracy and democratization,
+political culture, civil society, quality of life, and Hong Kong politics. He was an Associate Professor at the Division of Social Science, Hong Kong University of Science and Technology.
 
 <br /><br />
 
