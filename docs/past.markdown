@@ -6,6 +6,12 @@ permalink: /past/
 ---
 
 ![image](/images/picCulturalCenter.jpg)
+**September 27, 2024**: Making Sense of the Autocratization Process in Hong Kong
+
+*Speaker* : [Eliza W.Y. Lee](https://ppaweb.hku.hk/faculties/name/eliza){:target="_blank"}, University of Hong Kong
+
+*Discussant* : [Sing Ming](https://www.researchgate.net/profile/Ming-Sing-2){:target="_blank"}, Formerly of the Hong Kong University of Science and Technology
+
 
 **April 26, 2024**: Legal Resistance under the Shadow of Authoritarianism: The Struggle for the Rule of Law in Post-Umbrella Hong Kong
 
