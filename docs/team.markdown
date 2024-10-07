@@ -18,7 +18,7 @@ permalink: /team/
 
 <h2>Supporting Team</h2>
 
-**[Ka Ming Chan](https://www.kmchan.page/){:target="_blank"}** is an Assistant Professor in Comparative Politics at Newcastle University. His substantive research interest lies in the intersection of autocratization, radical politics, and information updating during elections. He is currently working on a project called “Spillover Effects in an Autocratization Age (SpAA)”.
+**[Dr. Ka Ming Chan](https://www.kmchan.page/){:target="_blank"}** is an Assistant Professor in Comparative Politics at Newcastle University. His substantive research interest lies in the intersection of autocratization, radical politics, and information updating during elections. He is currently working on a project called “Spillover Effects in an Autocratization Age (SpAA)”.
 
 **[Polly Chan](https://pollyjchan.github.io/){:target="_blank"}** is a PhD student of political science at the University of California, Berkeley. Her research interests include conflict, political violence, and survey methods. Her ongoing research examines perceptions of protest violence. Her work has been published in *International Journal of Public Opinion Research* and *Japanese Journal of Political Science*.
 
