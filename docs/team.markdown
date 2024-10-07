@@ -16,7 +16,7 @@ permalink: /team/
 
 **[Sanho Chung](https://sanhochung.netlify.app/){:target="_blank"}** is the treasurer of GRAPH. He is a Ph.D. candidate in Political Science from the School of Government and Public Policy (SGPP), University of Arizona. His research interests rest on clientelism, democracy & autocracy, as well as the politics of Hong Kong and Taiwan. His academic works have appeared or will appear in *Journal of Sport and Social Issues*, *China Perspectives* and *Contemporary Chinese Political Economy and Strategic Relations: An International Journal*.
 
-<h2>Supporting Team</h2>
+<h3>Supporting Team</h3>
 
 **[Dr. Ka Ming Chan](https://www.kmchan.page/){:target="_blank"}** is an Assistant Professor in Comparative Politics at Newcastle University. His substantive research interest lies in the intersection of autocratization, radical politics, and information updating during elections. He is currently working on a project called “Spillover Effects in an Autocratization Age (SpAA)”.
 
