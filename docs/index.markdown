@@ -10,9 +10,9 @@ layout: home
 ###### Image: [John Lee](https://www.pexels.com/@john/){:target="_blank"}
 
 
-The **Global Research Association of Politics in Hong Kong** (GRAPH) is an international research network for academic researchers studying Hong Kong. We provide a platform to connect those who are interested in Hong Kong politics. We also organize online talks and academic conferences. 
+The **Global Research Association of Politics in Hong Kong** (GRAPH) is an international research network for academic researchers studying Hong Kong. We provide a platform to connect those who are interested in Hong Kong politics. We also organize online talks and academic conferences. We are an official related group of the American Political Science Association (APSA). 
 
-To receive information about our upcoming talks, please sign up our [mailing list](https://forms.gle/L85raaDrjX3suitM9){:target="_blank"} and follow us on [Twitter](https://twitter.com/graphhk){:target="_blank"}. 
+To receive information about our upcoming talks, please sign up our [mailing list](https://forms.gle/L85raaDrjX3suitM9){:target="_blank"} and follow us on [X](https://twitter.com/graphhk){:target="_blank"}. 
 
 If you have a working paper or recent publication on Hong Kong politics, please let us know :point_down:
 
