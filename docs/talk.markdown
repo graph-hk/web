@@ -9,9 +9,9 @@ permalink: /talk/
 
 ## Legitimating the autocratization of Hong Kong: Evidence from secondary school textbooks
 
-**Date**: October 31, 2024
+**Date**: October 30, 2024
 
-**Time**: 8 am Hong Kong Time (Nov 1); 7 pm Central Time; 8 pm Eastern Time; 5 pm Pacific Time
+**Time**: 8 am Hong Kong Time (Oct 31); 7 pm Central Time; 8 pm Eastern Time; 5 pm Pacific Time
 
 **Speaker**: Stephan Ortmann, Hong Kong Metropolitan University
 
