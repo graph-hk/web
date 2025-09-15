@@ -8,35 +8,35 @@ published: true
 
 Standards and Guidelines for the Global Research Association of Politics in Hong Kong
 
-**MISSION**␣␣
+**MISSION**<br>
 Founded in 2022, the Global Research Association of Politics in Hong Kong (GRAPH), affiliated with the American Political Science Association, aims to promote the studies of Hong Kong politics in the mainstream political science community, to assist political scientists who conduct research about Hong Kong in their professional development and to facilitate the development and growth of an integrated academic community among Hong Kong political scientists and U.S.-based scholars with a substantial research interest in Hong Kong.
 
-**GOALS**␣␣
+**GOALS**<br>
 GRAPH endeavors to promote studies on the theoretical implications of Hong Kong's social, economic, political transformation and the changes and continuities of its external relations; to promote Hong Kong political studies as an important research area in the international academic community, and specifically as an indispensable element in any respectable curriculum on East Asia; to facilitate interaction and collaboration between political scientists in the U.S. and Hong Kong; and to assist young scholars and advanced graduate students in their career development.
 
-**PROGRAM**␣␣
+**PROGRAM**<br>
 These goals are to be achieved through the sponsorship of panels and roundtables under the broad umbrella of the APSA annual meeting each year; the support of publication projects; through the encouragement of other professional activities.
 
-**MEMBERSHIP**␣␣
+**MEMBERSHIP**<br>
 We maintain a simple membership system. 
 
-1. Eligibility:␣␣ 
+1. Eligibility:<br> 
 Anyone can become a member if he or she pays the annual membership due (if any). 
 
-2. Membership Privileges:␣␣
+2. Membership Privileges:<br>
 Membership enables one to vote for GRAPH coordinator; to qualify for participation in GRAPH-organized activities; to qualify for the travel grants and research supports administered through the GRAPH; and to be listed in GRAPH Membership Directory.
 
-**ORGANIZATION**␣␣
+**ORGANIZATION**<br>
 Coordinator:
 The Coordinator is the chief executive officer of the GRAPH and the chief representative of the group. The Coordinator is responsible for the preparation of the annual meeting program and of funding proposals. The Coordinator serves a three-year renewable term. In the second year of a term, the Coordinator for the next term is elected by all the voting members present at the annual business meeting. Any voting member who is sponsored by five or more voting members can become a candidate. The candidate who wins the highest votes is elected as Coordinator-elect.
 
-Assistant Coordinator(s):␣␣
+Assistant Coordinator(s):<br>
 During his or her tenure, the Coordinator appoints at least one U.S.-based member as Assistant Coordinator. Assistant Coordinator(s) serves a three-year renewable term. They provide advice and assistance to the Coordinator with respect to annual meeting programs, funding, and other group-wide matters.
 
-Treasurer:␣␣
+Treasurer:<br>
 During his or her tenure, the Coordinator appoints at least one U.S.-based member as Treasurer. The Treasurer serves a three-year renewable term. The Treasurer is responsible for managing the financial affairs of the group.
 
-Senior Advisors:␣␣
+Senior Advisors:<br>
 The Coordinator may appoint senior political scientists as advisors for the GRAPH.
 
 
