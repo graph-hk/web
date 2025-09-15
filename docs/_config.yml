@@ -30,6 +30,16 @@ url: 'https://graph-hk.github.io/' # the base hostname& protocol for your site, 
 baseurl: 'web/'
 
 
+header_pages:
+  - about.markdown
+  - advisors.markdown
+  - conference.markdown
+  - index.markdown
+  - past.markdown
+  - reousrces.markdown
+  - talk.markdown
+  - team.markdown
+
 #logo: /images/logo.png
 twitter_username: GRAPHhk
 #github_username:  jekyll
