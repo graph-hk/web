@@ -2,6 +2,7 @@
 layout: page
 title: ByLaws
 permalink: /bylaws/
+published: true
 ---
 
 
