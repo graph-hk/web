@@ -9,31 +9,37 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
-## Expressive Solidarity in Courtrooms: Defiant Senior Citizens in Post-National Security Law Hong Kong
+## Variations of Canadian External Support for Pro-democracy Movements in Hong Kong
 
-**Date**: September 26, 2025
+**Date**: October 17, 2025
 
-**Time**: 8:30 pm Hong Kong Time ; 7:30 am Central Time; 8:30 am Eastern Time; 5:30 am Pacific Time
+**Time**: 9 pm Hong Kong Time ; 8 am Central Time; 9 am Eastern Time; 6 am Pacific Time
 
-**Speaker**: Debby Chan, Australian National University
+**Speaker**: Kelvin Chan, University of Texas, Dallas
 
-**Discussant**: Eric Lai, Georgetown University
+**Discussant**: Ka Ming Chan, Newcastle University
 
-**[Registration](https://forms.gle/Qb83y3A73X11wk8H7){:target="\_blank"} Required**
+**[Registration](https://forms.gle/C53dxk2ajjN8zNMd6){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-The 2020 National Security Law has redrawn political space in Hong Kong. Following mass mobilisation against a controversial extradition bill in 2019, thousands of protesters were prosecuted. Pro-democracy citizens in the city were silenced or opted for incognito or covert resistance. Surprisingly, court spectators conveyed overt resistance that was observable by the authorities and the defendants in political trials. As surprising, was that an overwhelming majority of court spectators were senior citizens who had not been active members in contentious politics. This study draws on 15 in-depth interviews and three years of political trial observations after the National Security Law took effect. Senior citizens converted a space of legal justice into a resistance and affective site. Their activism communicated dual political signalling – overt disapproval of the prosecutions to the powerholders and expressive solidarity with the defendants. This study introduces a framework that synthesises resistance and solidarity in non- democratic settings, and it explores inter-generational bonding and emotions in court spectatorship – an under-examined form of legal mobilisation in social movement studies. The expansion of counter-movement and police operations in court hearings reflects the regime’s displeasure with expressive solidarity in courtrooms.
+What factor affects democracies to support pro-democracy movements abroad? The answer is critical for protestors in autocracies as they know that increasing domestic pressure is less likely to force the government to concede due to weaker institutional constraints. Therefore, attracting external support is an alternative strategy. Inviting foreign countries to exert pressure enables protestors to increase their voice, and arousing foreign countries’ sympathy to relax the immigration policies lowers the exit cost by ensuring protestors’ safety.
+
+To understand what factors are more likely to facilitate external democratic support for pro-democracy movements, this paper uses Canadian Members of Parliament (MP)’s support of Hong Kong’s pro-democracy movements in 2019 as a case study as a positive case. Huge protests were staged in Hong Kong after the local government introduced a bill that allows the extradition of Hong Kong citizens and foreigners who reside in Hong Kong to China. As crackdowns by the authorities became increasingly frequent, it made Canadian politicians concerned about the rights of Hong Kong citizens, particularly 300,000 Hong Kong Canadians residing in the city. Ultimately, after the Chinese government introduced a draconian national security law to prosecute pro-democracy activists and effectively outlaw all organizations and expressions of political dissent in June 2020, the Canadian government introduced a special immigration program for Hong Kong students, who formed the bulk of the protestors, in November 2020 to allow them to move to Canada and ultimately acquire Canadian citizenship legally. While support for the pro-democracy movement and immigration program is universal among all parties along the left-right Canadian political spectrum, there are variations among the individual MPs’ vocal support on these issues. This paper aims to find these patterns of variations and provide plausible explanations.
+
+By analyzing extracted speeches by dictionary-based text analysis from Hansard and Committee Evidence of the House of Commons from 2015 to 2023, the temporal trend shows apart from the discussion of the special immigration program, human rights violations due to the introduction of national security law led to an increasing number of speeches, while protests were ineffective. Moreover, negative binomial regression results show that the effect of the percentage of Cantonese speakers, the first language of Hong Kong immigrants, at the federal constituency level, is only statistically significant in the legislative term between 2019 to 2021, when the topic of Hong Kong pro-democracy movement was most heatedly debated, suggesting that the frequency of foreign politicians’ vocal support of movement depends on the geographical variations of the immigrant community.
+
+The research findings indicate there is a potential link between formal law changes to erode human rights and attracting external foreign support. Similarly, protestors should target foreign politicians who represent areas that have sizable immigrant communities, as they face stronger pressure from their electorate to voice out.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChanDebby.jpg" alt="speaker" width="150"/> [Debby Chan](https://researchportalplus.anu.edu.au/en/persons/debby-chan){:target="_blank"} is a lecture in the Australian Centre on China in the World at the Australian National University. Her research concerns economic and social resistance in authoritarian contexts. She is the author of Defying Beijing: Societal Resistance to Belt and Road in Myanmar (ANU Press, 2024).
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChanKelvin.jpg" alt="speaker" width="150"/> [Kelvin Chun-Man Chan](https://epps.utdallas.edu/phd-students/kelvin-chun-man-chan/){:target="_blank"} is currently a PhD student in Political Science at the University of Texas at Dallas. His research interests include civil resistance, democratic backsliding, election and voting behavior, and East Asian politics.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantLaiEric.jpg" alt="commentator" width="150"/> [Eric Yan-ho Lai](https://www.ericyanholai.com/){:target="_blank"} is a research fellow at the Center for Asian Law, Georgetown University Law Center. He received his PhD in law from SOAS University of London in 2022.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantChanKaMing.jpg" alt="commentator" width="150"/> [Ka-Ming Chan](https://www.kmchan.page/){:target="_blank"} is an Assistant Professor in Comparative Politics at Newcastle University. His substantive research interest lies in the intersection of autocratization, radical politics, and information updating during elections. He is currently working on a project called “Spillover Effects in an Autocratization Age (SpAA)”.
 
 <br /><br />
 

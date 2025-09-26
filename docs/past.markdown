@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**September 26, 2025**: Expressive Solidarity in Courtrooms: Defiant Senior Citizens in Post-National Security Law Hong Kong
+
+*Speaker* : [Debby Chan](https://researchportalplus.anu.edu.au/en/persons/debby-chan){:target="_blank"}, Australian National University
+
+*Discussant* : [Eric Yan-ho Lai](https://www.ericyanholai.com/){:target="_blank"}, Georgetown University
+
 **April 25/26, 2025**: The Economic Consequences of Protest Repression: the Case of Business Activism in Hong Kong
 
 *Speaker* : [Terry Shen Yang](https://yangshen.ink/){:target="_blank"}, Lingnan University
