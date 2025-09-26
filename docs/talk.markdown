@@ -9,7 +9,7 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
-## Variations of Canadian External Support for Pro-democracy Movements in Hong Kong
+## When Do Democracies Speak Out? Canadian External Support for Hong Kong's Pro-democracy Movement
 
 **Date**: October 17, 2025
 
