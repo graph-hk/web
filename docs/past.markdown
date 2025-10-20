@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**October 17, 2025**: When Do Democracies Speak Out? Canadian External Support for Hong Kong's Pro-democracy Movement
+
+*Speaker* : [Kelvin Chun-Man Chan](https://epps.utdallas.edu/phd-students/kelvin-chun-man-chan/){:target="_blank"}, University of Texas
+
+*Discussant* : [Ka-Ming Chan](https://www.kmchan.page/){:target="_blank"}, Newcastle University
+
 **September 26, 2025**: Expressive Solidarity in Courtrooms: Defiant Senior Citizens in Post-National Security Law Hong Kong
 
 *Speaker* : [Debby Chan](https://researchportalplus.anu.edu.au/en/persons/debby-chan){:target="_blank"}, Australian National University
