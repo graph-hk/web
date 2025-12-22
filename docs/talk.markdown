@@ -9,33 +9,31 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
-## Forever Hong Kong: A Global City’s Decolonization Struggle
+## Grounding the diasporic turn in political theory: Meta-commitment, transnationalism, and political obligation
 
-**Date**: November 14, 2025
+**Date**: January 23, 2026
 
-**Time**: 7 am Hong Kong Time ; 5 pm Central Time; 6 pm Eastern Time; 3 pm Pacific Time
+**Time**: 5 am Hong Kong Time (1/24) ; 3 pm Central Time; 4 pm Eastern Time; 1 pm Pacific Time
 
-**Speaker**: Ching Kwan Lee, University of California, Los Angeles
+**Speaker**: Samuel Chan, Occidental College
 
-**Discussant**: Christopher Achen, Princeton University
+**Discussant**: Kennedy Wong, The King's University
 
-**[Registration](https://forms.gle/LHpkWNwmgGKv4P5G8){:target="\_blank"} Required**
+**[Registration](https://forms.gle/B2aYd7Tt3ZfsyPtq6){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-This book offers a new interpretation of popular protests in Hong Kong since 1997, when Britain handed its sovereignty over the territory to China. While most academic and journalistic accounts call these movements for democracy and freedom, I argue that the totality of people’s demands and aspirations over two decades actually amounted to a decolonization struggle against the legacies and realities of British and Chinese colonialisms respectively. A central question this talk addresses is: how and why did ordinary citizens transform themselves from complacent colonized subjects to rebellious agents of history?
+Diasporas remain understudied in political theory. To ground a robust engagement with diasporas and their normative challenges, we expand on current transnationalism literature to offer a non-statist framework of political community. This framework is necessary as the diaspora is a transnational community that shares overlapping narratives and practices but lacks unified institutional structures and objectives. Tracking these features, we posit that individuals constitute a diasporic community by expressing, through their practices and narratives, a joint meta-commitment to act as part of that community. Meta-commitments do not require the parties to have substantial agreements beyond mutually recognizing each other as acting on behalf of the same community. The diasporic meta-commitment grounds an obligation of answerability: Diasporic members owe each other an answer as to how their choices relate to the future of the diaspora. This account contributes to transnational political theory by explaining the conditions under which transnational relations generate obligations.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerLeeChingKwan.jpg" alt="speaker" width="150"/> [Ching Kwan Lee](https://soc.ucla.edu/person/ching-kwan-lee/){:target="_blank"} is Professor of Sociology at UCLA interested in global and comparative issues: labor, political sociology, global development, decolonization, comparative ethnography, Hong Kong, Taiwan, China, Africa and the global south. She published three multiple award-winning monographs on contemporary China, forming a trilogy of Chinese capitalism through the lens of labor politics. Gender and the South China Miracle: Two Worlds of Factory Women (California 1998) documents the organization of gender and work in factory regimes in Hong Kong and Shenzhen when South China first emerged as the workshop of the world. Against the Law: Labor Protests in China’s Rustbelt and Sunbelt (California 2007) chronicles the unmaking and making of the Chinese working class in two regional economies experiencing the death of socialism and the rise of capitalism respectively in one country. The Specter of Global China: Politics, Labor, and Foreign Investment in Africa (Chicago 2017) follows the footsteps of Chinese state capital to Zambia and compares its relations with African state and labor to global private capital.
-
-Her most recent publications turn to resistance to global China, especially mass mobilizations in Hong Kong. They include a monograph on Hong Kong’s decolonization struggle against both British and Chinese colonialism, titled Forever Hong Kong: A Global City’s Decolonization Struggle (Harvard, 2025), a short format book titled Hong Kong: Global China’s Restive Frontier (Cambridge 2022), and a co-edited volume on the 2014 Umbrella Movement: Take Back Our Future: an Eventful Sociology of the Hong Kong Umbrella Movement (Cornell, 2019).
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChanSamuel.jpg" alt="speaker" width="150"/> [Kai Yui Samuel Chan](https://www.samuelcky.com/){:target="_blank"} is an Assistant Professor in Politics at Occidental College. Having earned his PhD from UC Berkeley in Political Science with a specialization in Political Theory, his research concerns individuals and communities traversing state borders. Samuel’s current book project, Entangled Peoplehood, re-interprets self-determination in light of the challenges confronting colonized, indigenous, and exiled peoples as they navigate an existing global order of nation states. His articles on diaspora, democratic theory, and interpretivism have been published by journals including American Journal of Political Science, Political Studies, and the European Journal of Political Theory.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantAchenChristopher.jpg" alt="commentator" width="150"/> [Christopher Achen](https://politics.princeton.edu/people/christopher-achen){:target="_blank"} is the Roger Williams Straus Professor of Social Sciences Emeritus at Princeton University.  His primary research interests are public opinion, elections, and the realities of democratic politics, along with the statistical challenges that arise from those fields. He is the author or co-author of six books, including Democracy for Realists (with Larry Bartels) in 2016, which won two international awards.  He has also published many articles.  He is a member of the American Academy of Arts and Sciences, and has received fellowships from the Center for Advanced Study in the Behavioral Sciences, the National Science Foundation, and Princeton's Center for the Study of Democratic Politics. He was the founding president of the Political Methodology Society, and he received the first career achievement award from The Political Methodology Section of The American Political Science Association in 2007. He has served on the top social science board at the National Science Foundation, and he was the chair of the national Council for the Inter-University Consortium for Political and Social Research (ICPSR) from 2013-2015.  He is also the recipient of an award from the University of Michigan for lifetime achievement in training graduate students and a student-initiated award from Princeton University for graduate student mentoring.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantWongKennedy.jpg" alt="commentator" width="150"/> [Kennedy Chi-pan Wong](https://www.kennedywongsociology.com/){:target="_blank"} is an Assistant Professor of Sociology at The King’s University. His research focuses on diaspora organizing processes and the political polarizations that emerge in alliance formations. His current book project, Multipolar Politics, based on five years of global ethnography, examines how political fault lines and transnational repression shape the formation of alliances in the context of global migration and diaspora organizing. His work has appeared in American Behavioral Scientist and the Journal of International Migration and Integration. He has received several graduate student paper awards, including an Honorable Mention from the ASA Human Rights Section.
 
 <br /><br />
 
