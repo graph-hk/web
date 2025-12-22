@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**November 14, 2025**: Forever Hong Kong: A Global City’s Decolonization Struggle
+
+*Speaker* : [Ching Kwan Lee](https://soc.ucla.edu/person/ching-kwan-lee/){:target="_blank"}, University of California, Los Angeles
+
+*Discussant* : [Christopher Achen](https://politics.princeton.edu/people/christopher-achen){:target="_blank"}, Princeton University
+
 **October 17, 2025**: When Do Democracies Speak Out? Canadian External Support for Hong Kong's Pro-democracy Movement
 
 *Speaker* : [Kelvin Chun-Man Chan](https://epps.utdallas.edu/phd-students/kelvin-chun-man-chan/){:target="_blank"}, University of Texas
