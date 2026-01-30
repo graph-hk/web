@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**January 23, 2026**: Grounding the diasporic turn in political theory: Meta-commitment, transnationalism, and political obligation
+
+*Speaker* : [Kai Yui Samuel Chan](https://www.samuelcky.com/){:target="_blank"}, Occidental College
+
+*Discussant* : [Kennedy Chi-pan Wong](https://www.kennedywongsociology.com/){:target="_blank"}, The King's University
+
 **November 14, 2025**: Forever Hong Kong: A Global City’s Decolonization Struggle
 
 *Speaker* : [Ching Kwan Lee](https://soc.ucla.edu/person/ching-kwan-lee/){:target="_blank"}, University of California, Los Angeles

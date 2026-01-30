@@ -9,31 +9,31 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
-## Grounding the diasporic turn in political theory: Meta-commitment, transnationalism, and political obligation
+## From "Black-Clad Violence" to "Revolution of Our Times": Mapping the Discursive Construction of Hong Kong’s Stateless Nationalism
 
-**Date**: January 23, 2026
+**Date**: February 27, 2026
 
-**Time**: 5 am Hong Kong Time (1/24) ; 3 pm Central Time; 4 pm Eastern Time; 1 pm Pacific Time
+**Time**: 9 am Hong Kong Time (2/27) ; 7 pm Central Time; 8 pm Eastern Time; 5 pm Pacific Time
 
-**Speaker**: Samuel Chan, Occidental College
+**Speaker**: Isaac Iu, Monash University
 
-**Discussant**: Kennedy Wong, The King's University
+**Discussant**: Justin Ho, National Yang Ming Chiao Tung University
 
-**[Registration](https://forms.gle/B2aYd7Tt3ZfsyPtq6){:target="\_blank"} Required**
+**[Registration](https://forms.gle/WXDZ7nht9i84vyEU9){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-Diasporas remain understudied in political theory. To ground a robust engagement with diasporas and their normative challenges, we expand on current transnationalism literature to offer a non-statist framework of political community. This framework is necessary as the diaspora is a transnational community that shares overlapping narratives and practices but lacks unified institutional structures and objectives. Tracking these features, we posit that individuals constitute a diasporic community by expressing, through their practices and narratives, a joint meta-commitment to act as part of that community. Meta-commitments do not require the parties to have substantial agreements beyond mutually recognizing each other as acting on behalf of the same community. The diasporic meta-commitment grounds an obligation of answerability: Diasporic members owe each other an answer as to how their choices relate to the future of the diaspora. This account contributes to transnational political theory by explaining the conditions under which transnational relations generate obligations.
+In the post-NSL era, the struggle for Hong Kong’s political identity has shifted profoundly to the digital sphere and the transnational diaspora. This talk synthesizes findings from two recent studies—"Two Nationalisms, One City" and "'Revolution of Our Times'"—to map the discursive construction of a "stateless nation" across the UK, Canada, and Australia. Adopting an innovative mixed-methods framework that integrates the Discourse-Historical Approach (DHA) with Corpus-Assisted Discourse Studies (CADS), I analyse a purpose-built corpus of official government texts and diasporic social media posts. The presentation demonstrates how the state employs a "securitization" lexicon to criminalize dissent , while the diaspora re-signifies banned slogans into the "symbolic infrastructure" of a resilient civic nationalism. Crucially, this session addresses the methodological challenges of the field, detailing data collection strategies and the use of statistical metrics to empirically ground critical discourse analysis in a contested political terrain.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChanSamuel.jpg" alt="speaker" width="150"/> [Kai Yui Samuel Chan](https://www.samuelcky.com/){:target="_blank"} is an Assistant Professor in Politics at Occidental College. Having earned his PhD from UC Berkeley in Political Science with a specialization in Political Theory, his research concerns individuals and communities traversing state borders. Samuel’s current book project, Entangled Peoplehood, re-interprets self-determination in light of the challenges confronting colonized, indigenous, and exiled peoples as they navigate an existing global order of nation states. His articles on diaspora, democratic theory, and interpretivism have been published by journals including American Journal of Political Science, Political Studies, and the European Journal of Political Theory.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerIuIsaac.jpg" alt="speaker" width="150"/> [Isaac Iu](https://au.linkedin.com/in/isaac-iu-30b548369){:target="_blank"} is a PhD candidate and Teaching Fellow in Chinese Studies at Monash University. His research interrogates the (digital) construction of stateless nationalism and collective memory within the global Hong Kong diaspora. Adopting a Corpus-Assisted Discourse Studies (CADS) framework, his dissertation investigates how diasporic communities in the UK, Canada, and Australia construct a “stateless nation” through the symbolic infrastructure of language, memory, and cultural practice. His recent work includes “Two Nationalisms, One City: Official and Diasporic Framings of the 2019 Hong Kong Protests” and “‘Revolution of Our Times’: Stateless Nationalism and the Work of Slogans in the Hong Kong Diaspora,” both published in Nations and Nationalism.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantWongKennedy.jpg" alt="commentator" width="150"/> [Kennedy Chi-pan Wong](https://www.kennedywongsociology.com/){:target="_blank"} is an Assistant Professor of Sociology at The King’s University. His research focuses on diaspora organizing processes and the political polarizations that emerge in alliance formations. His current book project, Multipolar Politics, based on five years of global ethnography, examines how political fault lines and transnational repression shape the formation of alliances in the context of global migration and diaspora organizing. His work has appeared in American Behavioral Scientist and the Journal of International Migration and Integration. He has received several graduate student paper awards, including an Honorable Mention from the ASA Human Rights Section.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantHoJustin.jpg" alt="commentator" width="150"/> [Justin Ho](https://justinchuntingho.github.io/){:target="_blank"} is a Computational Social Scientist whose research focuses on nationalism, with particular attention to how it is constructed on social media using computational methods. He completed his PhD in Sociology at the University of Edinburgh. His dissertation, titled “The Rise of Hong Kong Nationalism on the Edge of Empires,” was supervised by Ross Bond and Michael Rosie. His interdisciplinary research integrates sociological theories of nationalism with computational techniques from computer science.
 
 <br /><br />
 
