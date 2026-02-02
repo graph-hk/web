@@ -23,7 +23,7 @@ permalink: /talk/
 
 {% include countdown.html %}
 
-In the post-NSL era, the struggle for Hong Kong’s political identity has shifted profoundly to the digital sphere and the transnational diaspora. This talk synthesizes findings from two recent studies—"Two Nationalisms, One City" and "'Revolution of Our Times'"—to map the discursive construction of a "stateless nation" across the UK, Canada, and Australia. Adopting an innovative mixed-methods framework that integrates the Discourse-Historical Approach (DHA) with Corpus-Assisted Discourse Studies (CADS), I analyse a purpose-built corpus of official government texts and diasporic social media posts. The presentation demonstrates how the state employs a "securitization" lexicon to criminalize dissent , while the diaspora re-signifies banned slogans into the "symbolic infrastructure" of a resilient civic nationalism. Crucially, this session addresses the methodological challenges of the field, detailing data collection strategies and the use of statistical metrics to empirically ground critical discourse analysis in a contested political terrain.
+In the post-NSL era, the struggle for Hong Kong’s identity has migrated from physical space to the discursive realm. This seminar presents my recent study, Two Nationalisms, One City, to map the collision between two incompatible nationalisms: the state’s project of “organized forgetting” and the diaspora’s “radical remembrance.” I analyze how the government employs a lexicon of “securitization” and “rehabilitation” to pathologize dissent, reframing the 2019 protests as a social disease rather than a political awakening. In stark contrast, I demonstrate how the diaspora constructs a “stateless nation” through a “symbolic infrastructure” of resistance. By reclaiming terms like “comrades” (手足) and redefining “security” as human sanctuary rather than regime survival, the diaspora sustains a political community bound by affective solidarity. I contend that text has become the primary site of political agency, positioning the diaspora as the indispensable custodians of Hong Kong’s political soul.
 
 #### **Speaker**
 
@@ -33,7 +33,7 @@ In the post-NSL era, the struggle for Hong Kong’s political identity has shift
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantHoJustin.jpg" alt="commentator" width="150"/> [Justin Ho](https://justinchuntingho.github.io/){:target="_blank"} is a Computational Social Scientist whose research focuses on nationalism, with particular attention to how it is constructed on social media using computational methods. He completed his PhD in Sociology at the University of Edinburgh. His dissertation, titled “The Rise of Hong Kong Nationalism on the Edge of Empires,” was supervised by Ross Bond and Michael Rosie. His interdisciplinary research integrates sociological theories of nationalism with computational techniques from computer science.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantHoJustin.jpg" alt="commentator" width="150"/> [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"} is an Assistant Professor at National Yang Ming Chiao Tung University.  He holds a PhD in Sociology from the University of Edinburgh, and worked at Academia Sinica, Sciences Po, and the Amsterdam School of Communication Research. His research focuses on computational methods and political communication.
 
 <br /><br />
 
