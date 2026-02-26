@@ -13,7 +13,7 @@ permalink: /talk/
 
 **Date**: February 27, 2026
 
-**Time**: 9 am Hong Kong Time (2/27) ; 7 pm Central Time; 8 pm Eastern Time; 5 pm Pacific Time
+**Time**: 9 am Hong Kong Time (2/28) ; 7 pm Central Time; 8 pm Eastern Time; 5 pm Pacific Time
 
 **Speaker**: Isaac Iu, Monash University
 
