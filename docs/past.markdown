@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**February 27, 2026**: From "Black-Clad Violence" to "Revolution of Our Times": Mapping the Discursive Construction of Hong Kong’s Stateless Nationalism
+
+*Speaker* : [Isaac Iu](https://au.linkedin.com/in/isaac-iu-30b548369){:target="_blank"}, Monash University
+
+*Discussant* : [Justin Chun-ting Ho](https://justinchuntingho.github.io/){:target="_blank"}, National Yang Ming Chiao Tung University
+
 **January 23, 2026**: Grounding the diasporic turn in political theory: Meta-commitment, transnationalism, and political obligation
 
 *Speaker* : [Kai Yui Samuel Chan](https://www.samuelcky.com/){:target="_blank"}, Occidental College
