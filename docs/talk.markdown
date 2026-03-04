@@ -5,7 +5,7 @@ parent: Home
 permalink: /talk/
 ---
 
-![image](/images/picProtestArt.jpg)
+![image](/images/picTsingMaBridge.jpg)
 
 {% include share-buttons.html %}
 
