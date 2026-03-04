@@ -9,7 +9,7 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
- 
+###### Image: [SimplyArt4794](https://www.pexels.com/photo/mountains-and-hong-kong-on-the-coast-of-the-sea-11596339/){:target="_blank"}
 
 **Date**: March 27, 2026
 
