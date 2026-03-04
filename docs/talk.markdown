@@ -23,11 +23,7 @@ permalink: /talk/
 
 {% include countdown.html %}
 
-This book examines the most recent outmigration waves from Hong Kong (HK), a city experiencing drastic social changes since 2019, the year when it witnessed a series of social protests.
-
-Structured in three parts, i.e., HK–UK in continuum and the new HK diaspora in the UK; The new HK diaspora beyond Europe; and Transforming population geographies in HK, the chapters in this book analyse the post-2019 migration that occurred in the midst of the city’s fast-changing socio-political condition. The contributors focus on migrants’ experiences of migration and settlement, and their integration efforts in the destinations. This book also explores the home-building processes and identity changes among HK immigrants, how migration policies are embedded in complex national and regional politics, and how this new wave of migration has impacted HK. It suggests that new HK migrant communities have resulted in the formation of distinctive HK diasporas and a “Global Hong Kong”. It shows how migration evolves in this age of globalisation and hypermobility, alongside global geopolitics and the changing social and political environment in Asia.
-
-A valuable contribution to the understanding of HK migration in particular and Asian migration in general, this book will be of interest to overseas Chinese studies, diaspora and migration studies, and Asian studies.
+This book seminar examines the post-2019 outmigration waves from Hong Kong, after the city witnessed a series of social protests. It discusses Hong Kong migrants’ migration and settlement experiences, their adaptation and identity changes in the new home. It also provides glimpses into the impacts of migration on HK’s population dynamics. While Hong Kong people are not new to migration, these recent migration waves do feature a community of Hong Kongers, who cling to a specific Hong Kong spirit, and forge a unique Hong Kong diaspora globally. This book provides a case from Asia demonstrating how migration evolves in the age of globalization and hypermobility, alongside global geopolitics and the fast changing social and political environment in the region. The book is a part of the Routledge Series on Asian Migration.
 
 #### **Speaker**
 
