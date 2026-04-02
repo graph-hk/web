@@ -8,7 +8,7 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
-**March 27, 2026**: #### Image: [SimplyArt4794](https://www.pexels.com/photo/mountains-and-hong-kong-on-the-coast-of-the-sea-11596339/){:target="_blank"}
+**March 27, 2026**: Global Hong Kong: Post-2019 Migration and the New Hong Kong Diaspora
 
 *Speaker* : [Yuk Wah Chan](https://scholars.cityu.edu.hk/en/persons/yukchan/){:target="_blank"}, City University of Hong Kong
 

@@ -7,6 +7,8 @@ permalink: /talk/
 
 ![image](/images/picTsingMaBridge.jpg)
 
+##### Image: [SimplyArt4794](https://www.pexels.com/photo/mountains-and-hong-kong-on-the-coast-of-the-sea-11596339/){:target="_blank"}
+
 {% include share-buttons.html %}
 
 ## Analysing Democratic Commitment in Hong Kong
@@ -19,7 +21,7 @@ permalink: /talk/
 
 **Discussant**: Sanho Chung, National Cheng Kung University
 
-**[Registration](https://forms.gle/pWk9hxjNbxiXhgJU8){:target="\_blank"} Required**
+**[Registration](https://forms.gle/pWk9hxjNbxiXhgJU8){:target="_blank"} Required**
 
 {% include countdown.html %}
 
