@@ -7,37 +7,33 @@ permalink: /talk/
 
 ![image](/images/picTsingMaBridge.jpg)
 
-###### Image: [SimplyArt4794](https://www.pexels.com/photo/mountains-and-hong-kong-on-the-coast-of-the-sea-11596339/){:target="_blank"}
-
 {% include share-buttons.html %}
 
-## GLOBAL HONG KONG : POST-2019 MIGRATION AND THE NEW HONG KONG DIASPORA
+## Analysing Democratic Commitment in Hong Kong
 
-**Date**: March 27, 2026
+**Date**: April 29, 2026
 
-**Time**: 9 pm Hong Kong Time ; 8 am Central Time; 9 am Eastern Time; 6 am Pacific Time
+**Time**: 10 pm Hong Kong Time ; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
 
-**Speaker**: Yuk Wah Chan, City University of Hong Kong
+**Speaker**: Waiman Lam, SOAS China Institute
 
-**Discussant**: Maggie Shum, Penn State, Erie
+**Discussant**: Sanho Chung, National Cheng Kung University
 
-**[Registration](https://forms.gle/YQn2oZrPiVvFnEEa9){:target="\_blank"} Required**
+**[Registration](https://forms.gle/pWk9hxjNbxiXhgJU8){:target="\_blank"} Required**
 
 {% include countdown.html %}
 
-This book seminar examines the post-2019 outmigration waves from Hong Kong, after the city witnessed a series of social protests. It discusses Hong Kong migrants’ migration and settlement experiences, their adaptation and identity changes in the new home. It also provides glimpses into the impacts of migration on HK’s population dynamics. While Hong Kong people are not new to migration, these recent migration waves do feature a community of Hong Kongers, who cling to a specific Hong Kong spirit, and forge a unique Hong Kong diaspora globally. This book provides a case from Asia demonstrating how migration evolves in the age of globalization and hypermobility, alongside global geopolitics and the fast changing social and political environment in the region. The book is a part of the Routledge Series on Asian Migration.
-
-The book is available for purchase [here](https://www.routledge.com/Global-Hong-Kong-Post-2019-Migration-and-the-New-Hong-Kong-Diaspora/Chan-To/p/book/9781032896892){:target="_blank"}. You can enjoy a 20% discount with this promotion code: 26AEV1.
+This paper analyses the patterns of democratic commitment in Hong Kong across waves 1 to 6 of the Asian Barometer Survey spanning the past two decades. Democratic commitment is conceptualised as a multi-dimensional attitude measured by both the positive endorsement of democracy—its perceived suitability, preferability, priority and efficacy—and the explicit rejection of authoritarian alternatives. Rather than providing an exhaustive explanation for the varying degrees of democratic commitment in Hong Kong, this paper offers a preliminary examination of key variables associated with these patterns, including socio-economic characteristics, place of birth, identity, political efficacy, interest in politics, satisfaction with government, and media consumption habits, based on the existing literature and our observations of the social, political and cultural trends that have evolved over several decades. The past two decades have witnessed profound political and social transformations in Hong Kong. The structure of political opportunities, the nature of public discourse, and the very meaning of democratic commitment have been in a constant state of flux. Throughout this period, Hong Kong’s political landscape has experienced both democratic and autocratic shifts. This paper presents a valuable opportunity to review public political attitudes in relation to these developments.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChanYukWah.jpg" alt="speaker" width="150"/> [Yuk Wah Chan](https://scholars.cityu.edu.hk/en/persons/yukchan/){:target="_blank"} is Associate Professor at City University of Hong Kong. She is an anthropologist and her research interests cover international migration and diaspora studies, borderlands, identity and food studies. Her publications include The Chinese / Vietnamese Diaspora - Revisiting the Boat People (2011), Vietnamese-Chinese Relationships at the Borderlands: Trade, Tourism and Cultural Politics (2013), New Chinese Migrations: Mobility, Home, and Inspirations (2018), and Global Hong Kong: Post-2019 Migration and the New Hong Kong Diaspora (2025). Her research articles appeared in a variety of academic journals. She is Editor of the Routledge Series on Asian Migration.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerLamWaiman.jpg" alt="speaker" width="150"/> [Wai-Man Lam](https://www.researchgate.net/profile/Wai-Man-Lam){:target="_blank"} is Research Associate at SOAS China Institute and was formerly Associate Professor and Head of Social Sciences at Hong Kong Metropolitan University. Her research focuses on comparative politics, state-society relations, identity politics, political behaviour, and the dynamics of democratisation and autocratization, with a particular emphasis on Hong Kong and Greater China.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantShumMaggie.jpg" alt="commentator" width="150"/> [Dr. Maggie Shum](https://behrend.psu.edu/person/maggie-shum){:target="_blank"} is an assistant professor of political science at Penn State Erie, the Behrend College. She received her PhD in political science at the University of Notre Dame, specializing in comparative politics with two regional focuses in Latin America and East Asia (Hong Kong and Taiwan). Her research interests include transnational contentious politics, social movement, diasporas politics, party organization, participatory institutions, and public opinion. Dr. Shum is currently working on research projects focusing on how Hong Kong diasporas (re)construct their collective identity abroad, and how they navigate between the concerns of the homeland and their well-being in the host country such as the US. Her academic works have been published or accepted in Journal of Asian and African Studies, and Japanese Journal of Political Science, and her policy writings on Hong Kong can be found in the Monkey Cage in the Washington Post, Mischief of Factions, and the Diplomat. In addition, she pens the Freedom of the World report on Hong Kong, and serves as the country expert on Hong Kong in the Varieties of Democracy (V-Dem).
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantChungSanho.jpg" alt="commentator" width="150"/> [Sanho Chung](https://www.sanhochung.me/){:target="_blank"} is an Assistant Professor in the Department of Political Science at National Cheng Kung University in Tainan, Taiwan. His research interests center on electoral clientelism, local government, and democracy and autocracy, with a regional focus on East Asia.
 
 <br /><br />
 

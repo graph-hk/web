@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**March 27, 2026**: #### Image: [SimplyArt4794](https://www.pexels.com/photo/mountains-and-hong-kong-on-the-coast-of-the-sea-11596339/){:target="_blank"}
+
+*Speaker* : [Yuk Wah Chan](https://scholars.cityu.edu.hk/en/persons/yukchan/){:target="_blank"}, City University of Hong Kong
+
+*Discussant* : [Dr. Maggie Shum](https://behrend.psu.edu/person/maggie-shum){:target="_blank"}, Penn State
+
 **February 27, 2026**: From "Black-Clad Violence" to "Revolution of Our Times": Mapping the Discursive Construction of Hong Kong’s Stateless Nationalism
 
 *Speaker* : [Isaac Iu](https://au.linkedin.com/in/isaac-iu-30b548369){:target="_blank"}, Monash University
