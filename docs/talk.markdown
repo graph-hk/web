@@ -29,7 +29,7 @@ In parliamentary democracies, governments typically prioritize non-coercive meas
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerCharmTheodore.jpg" alt="speaker" width="150"/> [Theodore Charm graduated from the University of Texas at Austin with a Ph.D. in Government. H](https://utexas.academia.edu/TheodoreCharm){:target="_blank"}is research interests include contentious politics, politics of East Asia, and computational text analysis. His work has appeared in Journal of Asian and African Studies, Party Politics, and Political Research Quarterly, among others.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerCharmTheodore.jpg" alt="speaker" width="150"/> [Theodore Charm](https://utexas.academia.edu/TheodoreCharm){:target="_blank"} graduated from the University of Texas at Austin with a Ph.D. in Government. His research interests include contentious politics, politics of East Asia, and computational text analysis. His work has appeared in Journal of Asian and African Studies, Party Politics, and Political Research Quarterly, among others.
 
 <br /><br />
 
