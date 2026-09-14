@@ -1,0 +1,7 @@
+### cd .../web
+
+git add docs
+
+git commit -m "MESSAGES"
+
+git push origin main

@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**April 29, 2026**: Analysing Democratic Commitment in Hong Kong
+
+*Speaker* : [Wai-Man Lam](https://www.researchgate.net/profile/Wai-Man-Lam){:target="_blank"}, SOAS China Institute
+
+*Discussant* : [Sanho Chung](https://www.sanhochung.me/){:target="_blank"}, National Cheng Kung University
+
 **March 27, 2026**: Global Hong Kong: Post-2019 Migration and the New Hong Kong Diaspora
 
 *Speaker* : [Yuk Wah Chan](https://scholars.cityu.edu.hk/en/persons/yukchan/){:target="_blank"}, City University of Hong Kong

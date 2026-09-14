@@ -11,31 +11,31 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
-## Analysing Democratic Commitment in Hong Kong
+## Institutional Ties and Party Competition in Foreign Policy: UK Responses to Protests in Hong Kong and Belarus
 
-**Date**: April 29, 2026
+**Date**: September 25, 2026
 
-**Time**: 10 pm Hong Kong Time ; 9 am Central Time; 10 am Eastern Time; 7 am Pacific Time
+**Time**: 9:30 pm Hong Kong Time ; 8:30 am Central Time; 9:30 am Eastern Time; 6:30 am Pacific Time
 
-**Speaker**: Waiman Lam, SOAS China Institute
+**Speaker**: Theodore Charm, University of Texas in Austin
 
-**Discussant**: Sanho Chung, National Cheng Kung University
+**Discussant**: Jackie Wong, American University of Sharjah
 
-**[Registration](https://forms.gle/pWk9hxjNbxiXhgJU8){:target="_blank"} Required**
+**[Registration](https://forms.gle/NcA5D6HTJZM5LN23A){:target="_blank"} Required**
 
 {% include countdown.html %}
 
-This paper analyses the patterns of democratic commitment in Hong Kong across waves 1 to 6 of the Asian Barometer Survey spanning the past two decades. Democratic commitment is conceptualised as a multi-dimensional attitude measured by both the positive endorsement of democracy—its perceived suitability, preferability, priority and efficacy—and the explicit rejection of authoritarian alternatives. Rather than providing an exhaustive explanation for the varying degrees of democratic commitment in Hong Kong, this paper offers a preliminary examination of key variables associated with these patterns, including socio-economic characteristics, place of birth, identity, political efficacy, interest in politics, satisfaction with government, and media consumption habits, based on the existing literature and our observations of the social, political and cultural trends that have evolved over several decades. The past two decades have witnessed profound political and social transformations in Hong Kong. The structure of political opportunities, the nature of public discourse, and the very meaning of democratic commitment have been in a constant state of flux. Throughout this period, Hong Kong’s political landscape has experienced both democratic and autocratic shifts. This paper presents a valuable opportunity to review public political attitudes in relation to these developments.
+In parliamentary democracies, governments typically prioritize non-coercive measures in foreign policy, whereas oppositions push for coercive policies. However, this pattern is not universally applicable. Under what conditions would governments and oppositions converge and diverge in foreign policy discourse? This paper argues that the government-opposition distinction is conditional on the institutional ties between the state and the foreign territory in question. Strong institutional ties generate high policy capacity for governments, motivating them to advocate non-coercive policies. Otherwise, governments would align with oppositions to support punitive measures. Employing computational text analysis on the UK parliamentary speeches addressing the protests in Hong Kong and Belarus, this paper finds that regarding Hong Kong, the Conservative government tended to emphasize the UK’s historical responsibility to legitimize the BNO visa scheme. Concerning Belarus, both Conservatives and oppositions advocated sanctions against the Lukashenka regime. These findings highlight institutional linkages as a critical factor for foreign policy.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerLamWaiman.jpg" alt="speaker" width="150"/> [Wai-Man Lam](https://www.researchgate.net/profile/Wai-Man-Lam){:target="_blank"} is Research Associate at SOAS China Institute and was formerly Associate Professor and Head of Social Sciences at Hong Kong Metropolitan University. Her research focuses on comparative politics, state-society relations, identity politics, political behaviour, and the dynamics of democratisation and autocratization, with a particular emphasis on Hong Kong and Greater China.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerCharmTheodore.jpg" alt="speaker" width="150"/> [Theodore Charm graduated from the University of Texas at Austin with a Ph.D. in Government. H](https://utexas.academia.edu/TheodoreCharm){:target="_blank"}is research interests include contentious politics, politics of East Asia, and computational text analysis. His work has appeared in Journal of Asian and African Studies, Party Politics, and Political Research Quarterly, among others.
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantChungSanho.jpg" alt="commentator" width="150"/> [Sanho Chung](https://www.sanhochung.me/){:target="_blank"} is an Assistant Professor in the Department of Political Science at National Cheng Kung University in Tainan, Taiwan. His research interests center on electoral clientelism, local government, and democracy and autocracy, with a regional focus on East Asia.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantWongJackie.jpg" alt="commentator" width="150"/> [Jackie S.H. Wong](https://siuheiwo.github.io/){:target="_blank"} is an Assistant Professor at the American University of Sharjah in the UAE. His research focuses on computational social science and international security. His work has appeared in International Security, Political Science Research and Methods, and the Journal of Conflict Resolution.
 
 <br /><br />
 
