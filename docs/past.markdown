@@ -8,6 +8,12 @@ permalink: /past/
 ![image](/images/picCulturalCenter.jpg)
 
 ###### Image: [Harry Shum](https://www.pexels.com/@harry-shum-17627821/){:target="_blank"}
+**September 25, 2026**: Institutional Ties and Party Competition in Foreign Policy: UK Responses to Protests in Hong Kong and Belarus
+
+*Speaker* : [Theodore Charm](https://utexas.academia.edu/TheodoreCharm){:target="_blank"}, University of Texas in Austin
+
+*Discussant* : [Jackie S.H. Wong](https://siuheiwo.github.io/){:target="_blank"}, American University of Sharjah
+
 **April 29, 2026**: Analysing Democratic Commitment in Hong Kong
 
 *Speaker* : [Wai-Man Lam](https://www.researchgate.net/profile/Wai-Man-Lam){:target="_blank"}, SOAS China Institute

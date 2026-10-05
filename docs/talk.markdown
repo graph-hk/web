@@ -11,31 +11,53 @@ permalink: /talk/
 
 {% include share-buttons.html %}
 
-## Institutional Ties and Party Competition in Foreign Policy: UK Responses to Protests in Hong Kong and Belarus
+## Hong Kong Christianities and Civic Life
 
-**Date**: September 25, 2026
+**Date**: October 23, 2026
 
-**Time**: 9:30 pm Hong Kong Time ; 8:30 am Central Time; 9:30 am Eastern Time; 6:30 am Pacific Time
+**Time**: 10:30 am Hong Kong Time (10/24) ; 9:30 pm Central Time; 10:30 pm Eastern Time; 7:30 pm Pacific Time
 
-**Speaker**: Theodore Charm, University of Texas in Austin
+**Speaker**: Ann Gillian Chu, Chinese University of Hong Kong
 
-**Discussant**: Jackie Wong, American University of Sharjah
+**Discussant**: Chit Wai Mok, The Hong Kong Polytechnic University
 
-**[Registration](https://forms.gle/NcA5D6HTJZM5LN23A){:target="_blank"} Required**
+**[Registration](https://forms.gle/eRoztdCz9Y7n31AZ8){:target="_blank"} Required**
 
 {% include countdown.html %}
 
-In parliamentary democracies, governments typically prioritize non-coercive measures in foreign policy, whereas oppositions push for coercive policies. However, this pattern is not universally applicable. Under what conditions would governments and oppositions converge and diverge in foreign policy discourse? This paper argues that the government-opposition distinction is conditional on the institutional ties between the state and the foreign territory in question. Strong institutional ties generate high policy capacity for governments, motivating them to advocate non-coercive policies. Otherwise, governments would align with oppositions to support punitive measures. Employing computational text analysis on the UK parliamentary speeches addressing the protests in Hong Kong and Belarus, this paper finds that regarding Hong Kong, the Conservative government tended to emphasize the UK’s historical responsibility to legitimize the BNO visa scheme. Concerning Belarus, both Conservatives and oppositions advocated sanctions against the Lukashenka regime. These findings highlight institutional linkages as a critical factor for foreign policy.
+This book explores Protestant Christianity in Hong Kong through an ethnographic study
+
+of Hong Kong Christians at a time of societal change (2013-2014 and 2019-2020).
+
+Revealing how selected published theologians and average lay Christians in Hong Kong
+
+understand ideas of democracy, human rights, civic identity, and civil disobedience, this
+
+book draws on the works of Hong Kong theologians, alongside the lay theologies of
+
+Hong Kong Christian interview participants and, by extension, those in the diaspora. It
+
+provides a critical examination of how pro-democracy and pro-establishment Christians
+
+understand and negotiate the relationship between national identity, democratic
+
+values, and Christian convictions. The book also explores the concept of the ‘third way’
+
+for Hong Kong Christians, an alternative space than either pro-establishment or pro-
+
+democracy Christians, ultimately revealing that human rights and democracy concepts
+
+cannot be understood in the same way in Hong Kong as in Western contexts.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerCharmTheodore.jpg" alt="speaker" width="150"/> [Theodore Charm](https://utexas.academia.edu/TheodoreCharm){:target="_blank"} graduated from the University of Texas at Austin with a Ph.D. in Government. His research interests include contentious politics, politics of East Asia, and computational text analysis. His work has appeared in Journal of Asian and African Studies, Party Politics, and Political Research Quarterly, among others.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerpicSpeakerChuGillian.jpg.jpg" alt="speaker" width="150"/> [Ann Gillian Chu](https://www2.crs.cuhk.edu.hk/faculty-staff/teaching-faculty/chu-ann-gillian){:target="_blank"} is an Assistant Professor at the Department of Cultural and Religious Studies at the Chinese University of Hong Kong, a Visiting Research Fellow at the Centre for Religion and Public Life at the University of Leeds, and a Research Fellow at the Centre for Applied Ethics at Hong Kong Baptist University. Her academic interests include on Hong Kong Christianities, theological ethics, and sociology of religion. Her latest open access monograph, funded by Hong Kong Baptist University, is titled Hong Kong Christianities and Civic Life (Routledge, 2026).
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantWongJackie.jpg" alt="commentator" width="150"/> [Jackie S.H. Wong](https://siuheiwo.github.io/){:target="_blank"} is an Assistant Professor at the American University of Sharjah in the UAE. His research focuses on computational social science and international security. His work has appeared in International Security, Political Science Research and Methods, and the Journal of Conflict Resolution.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantpicDiscussantMokChitWai.jpg.jpg" alt="commentator" width="150"/> [Chit-Wai MOK](https://www.polyu.edu.hk/apss/people/academic-staff/dr-mok-chit-wai-john/){:target="_blank"} is a Research Assistant Professor in the Department of Applied Social Sciences at The Hong Kong Polytechnic University. He specializes in the sociology of organization/institution, religion, and culture. One of his ongoing projects examines how Roman Catholic practitioners in contemporary China navigate competing institutional demands.
 
 <br /><br />
 
