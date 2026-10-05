@@ -51,13 +51,13 @@ cannot be understood in the same way in Hong Kong as in Western contexts.
 
 #### **Speaker**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerpicSpeakerChuGillian.jpg.jpg" alt="speaker" width="150"/> [Ann Gillian Chu](https://www2.crs.cuhk.edu.hk/faculty-staff/teaching-faculty/chu-ann-gillian){:target="_blank"} is an Assistant Professor at the Department of Cultural and Religious Studies at the Chinese University of Hong Kong, a Visiting Research Fellow at the Centre for Religion and Public Life at the University of Leeds, and a Research Fellow at the Centre for Applied Ethics at Hong Kong Baptist University. Her academic interests include on Hong Kong Christianities, theological ethics, and sociology of religion. Her latest open access monograph, funded by Hong Kong Baptist University, is titled Hong Kong Christianities and Civic Life (Routledge, 2026).
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picSpeakerChuGillian.jpg" alt="speaker" width="150"/> [Ann Gillian Chu](https://www2.crs.cuhk.edu.hk/faculty-staff/teaching-faculty/chu-ann-gillian){:target="_blank"} is an Assistant Professor at the Department of Cultural and Religious Studies at the Chinese University of Hong Kong, a Visiting Research Fellow at the Centre for Religion and Public Life at the University of Leeds, and a Research Fellow at the Centre for Applied Ethics at Hong Kong Baptist University. Her academic interests include on Hong Kong Christianities, theological ethics, and sociology of religion. Her latest open access monograph, funded by Hong Kong Baptist University, is titled Hong Kong Christianities and Civic Life (Routledge, 2026).
 
 <br /><br />
 
 #### **Discussant**
 
-<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantpicDiscussantMokChitWai.jpg.jpg" alt="commentator" width="150"/> [Chit-Wai MOK](https://www.polyu.edu.hk/apss/people/academic-staff/dr-mok-chit-wai-john/){:target="_blank"} is a Research Assistant Professor in the Department of Applied Social Sciences at The Hong Kong Polytechnic University. He specializes in the sociology of organization/institution, religion, and culture. One of his ongoing projects examines how Roman Catholic practitioners in contemporary China navigate competing institutional demands.
+<img align="right" src="{{site.baseurl | prepend: site.url}}images/picDiscussantMokChitWai.jpg" alt="commentator" width="150"/> [Chit-Wai MOK](https://www.polyu.edu.hk/apss/people/academic-staff/dr-mok-chit-wai-john/){:target="_blank"} is a Research Assistant Professor in the Department of Applied Social Sciences at The Hong Kong Polytechnic University. He specializes in the sociology of organization/institution, religion, and culture. One of his ongoing projects examines how Roman Catholic practitioners in contemporary China navigate competing institutional demands.
 
 <br /><br />
 
